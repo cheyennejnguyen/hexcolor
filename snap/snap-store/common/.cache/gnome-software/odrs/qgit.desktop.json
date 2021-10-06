@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "qgit.desktop",
+        "date_created": 1629210271.0,
+        "description": "Can be better but It's very functional.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "en_US",
+        "rating": 80,
+        "reported": 0,
+        "review_id": 410393,
+        "score": 41,
+        "summary": "Can be better but It's very functional",
+        "user_display": "daniel",
+        "user_hash": "445af904184d7074860745b37fd42050a8e2f5d2",
+        "user_skey": "779afa72eb4ba2a846587dc9ad45650b4fd43333",
+        "version": "2.9-1build1"
+    },
+    {
+        "app_id": "qgit.desktop",
+        "date_created": 1580340466.0,
+        "description": "QGit's project management has now moved to GitHub.\n\nhttps://github.com/tibirna/qgit",
+        "distro": "Fedora",
+        "karma_down": 0,
+        "karma_up": 1,
+        "locale": "en_GB",
+        "rating": 60,
+        "reported": 0,
+        "review_id": 144024,
+        "score": 0,
+        "summary": "Moved to GitHub",
+        "user_display": "user01",
+        "user_hash": "f23a0be33e0e0839fcfc9c3a5680a3fc44046cc4",
+        "user_skey": "779afa72eb4ba2a846587dc9ad45650b4fd43333",
+        "version": "2.9"
+    }
+]

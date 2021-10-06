@@ -1,0 +1,261 @@
+2021/09/08 11:26:06.751  3630 139985057378944 GW2   Logger started.
+2021/09/08 11:26:06.753  3630 139985057378944 GW2!! Delete old dumps (.stack): core file path "" not valid (system:2), Errorcode=2
+2021/09/08 11:26:06.753  3630 139985057378944 GW2   Found 0 stack dump files ...
+2021/09/08 11:26:06.753  3630 139985057378944 GW2!! Delete old dumps (.core): core file path "" not valid (system:2), Errorcode=2
+2021/09/08 11:26:06.753  3630 139985057378944 GW2   Found 0 core dump files ...
+2021/09/08 11:26:06.754  3630 139985057378944 GW2   systemd: logind service available
+2021/09/08 11:26:06.755  3630 139985057378944 GW2   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='2', canGraphical=1, canTTY=1, canMultiSession=0]
+2021/09/08 11:26:06.755  3630 139985057378944 GW2   LogindSessionInfo: New session LogindSessionInfo [id=2 user=cheyenne state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY=tty2 seat=seat0 display= vtnr=2 owner=[SysUser: cheyenne [uid=1000, gid=1000 home=/home/cheyenne gecos=Cheyenne Nguyen,,, shell=/bin/bash]] idle=0(0) active=1 type=wayland class=user state=active timestamp=1631118168766980 service=gdm-password defaultCG= leader=1329 audit=2 remote=0 rHost= rUser= killProc=0]
+2021/09/08 11:26:06.757  3630 139985057378944 GW2   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2021/09/08 11:26:06.757  3630 139985057378944 GW2   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2021/09/08 11:26:06.757  3630 139985057378944 GW2!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2021/09/08 11:26:06.757  3630 139985057378944 GW2   SysSessionInfoManager::SessionAdded: adding session WaylandSession: [SysSession 450215437 [type=87 vt=2 tty= pseudotty=0 info=1 id=2 user=cheyenne state=user active=1 reliable=1]]
+2021/09/08 11:26:06.758  3630 139985057378944 GW2   SysSessionInfoManager::GetOwnProcessSession: own session cache set to '450215437'
+2021/09/08 11:26:06.758  3630 139985057378944 GW2   Running on Qt 5.15.2
+2021/09/08 11:26:06.806  3630 139985057378944 GW2   Initialised XRandR extension 1.6 (base=88 error=145)
+2021/09/08 11:26:06.807  3630 139985057378944 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/09/08 11:26:06.807  3630 139985057378944 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/09/08 11:26:06.807  3630 139985057378944 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/09/08 11:26:06.807  3630 139985057378944 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/09/08 11:26:06.813  3630 139985057378944 GW2   Loaded language 'en', using locale 'en'
+2021/09/08 11:26:06.813  3630 139985057378944 GW2   InterProcessBase::SecureNetwork created
+2021/09/08 11:26:06.814  3630 139985057378944 GW2   VoIP: Constructor
+2021/09/08 11:26:06.814  3630 139983637440064 GW2!  Unable to increase the thread priority for thread 7f507afbe640
+2021/09/08 11:26:06.814  3630 139983629047360 GW2   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2021/09/08 11:26:06.814  3630 139983629047360 GW2   Opening local TCP connection to 127.0.0.1:5939, tcp?
+2021/09/08 11:26:06.814  3630 139985010398784 GW2   Local TCP connection established
+2021/09/08 11:26:06.816  3630 139984744977984 GW2   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2021/09/08 11:26:06.816  3630 139984744977984 GW2   IpcRemoteSettingsHandler::HandleCommand UserSettings process sends sync settings response to network.
+2021/09/08 11:26:06.817  3630 139984786941504 GW2   Received Control_InitIPC_Response processtype=1
+2021/09/08 11:26:06.817  3630 139984786941504 GW2   Received Control_InitIPC_Response runningProcesses=3
+2021/09/08 11:26:06.817  3630 139984786941504 GW2   IPCConnection: all processes 3 completely initialized
+
+
+
+Start:              2021/09/08 11:26:06.817 (UTC-5:00)
+Version:            15.21.4 H
+Version short hash: 29039f2755f
+ID:                 0
+Loglevel:           Info (100)
+License:            0
+Server:             master5.teamviewer.com
+IC:                 -683752716
+CPU:                11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+CPU extensions:     l9
+OS:                 Lx Ubuntu 21.04 (x86_64)
+IP:                 10.70.10.173
+Proxy-Settings:     Type=0 IP= User=
+
+2021/09/08 11:26:10.993  3630 139984786941504 GW2   Account::UpdateState: KA = 1, active = 1
+2021/09/08 11:26:10.993  3630 139984744977984 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: e912f63e-5cdc-4b17-bbb7-eb95af2440d9)
+2021/09/08 11:26:10.993  3630 139985057378944 GW2   Account::SetLoginState: new state: 2
+2021/09/08 11:26:10.994  3630 139984744977984 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 70d21b51-312c-4c46-a9ff-85591c1e61c5)
+2021/09/08 11:26:15.176  3630 139985057378944 GW2   SystemID m=1 s=0 d29da0527d6e4430bae38f7f4f48dadb
+2021/09/08 11:26:15.178  3630 139985057378944 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2021/09/08 11:26:15.320  3630 139984778548800 GW2   IDLabelContent::UpdateImpl() IDs changed: SessionID "377940740", ServerID "377940740"
+2021/09/08 11:26:15.357  3630 139985057378944 GW2   ManagerHolderStateMachine: Switching from None to ReadyForLogin
+2021/09/08 11:26:15.357  3630 139985057378944 GW2   InterProcessBase::SetReadyToProcessCommands(1)
+2021/09/08 11:26:15.357  3630 139984795334208 GW2   ChatManagerHolder::ClearAccountChat
+2021/09/08 11:26:15.357  3630 139984795334208 GW2   ChatManager::ChatManager: created
+2021/09/08 11:26:15.357  3630 139984795334208 GW2   ChatManager::Factory: ChatManager created
+2021/09/08 11:26:15.357  3630 139984795334208 GW2   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2021/09/08 11:26:15.357  3630 139984795334208 GW2   IncomingCommandRegistration::Start: registering for ready state properties
+2021/09/08 11:26:15.357  3630 139984795334208 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: f46c2a2d-39b4-4c07-839c-80a6d5ec08f4)
+2021/09/08 11:26:15.357  3630 139984795334208 GW2   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2021/09/08 11:26:15.358  3630 139985010398784 GW2   IpcRouterClock: received router time: 20210908T162615.154157
+2021/09/08 11:26:15.359  3630 139985057378944 GW2   Initialised XFixes extension (base=86 error=138)
+2021/09/08 11:26:15.366  3630 139985057378944 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/09/08 11:26:15.369  3630 139985057378944 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/09/08 11:26:15.369  3630 139985057378944 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/09/08 11:26:15.369  3630 139985057378944 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/09/08 11:26:15.429  3630 139985010398784 GW2!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/09/08 11:26:15.430  3630 139984744977984 GW2!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/09/08 11:26:27.573  3984 139820015329920 GW2   ShowOtherInstance: triggered existing instance.
+		Quitting...
+2021/09/08 11:26:46.880  4051 139910349275776 GW2   ShowOtherInstance: triggered existing instance.
+		Quitting...
+2021/09/08 11:27:04.800  3630 139985057378944 GW2   CreateProcess '/usr/bin/teamviewer' as user cheyenne (1000)
+2021/09/08 11:27:04.971  3630 139985057378944 GW2   HandleSigChld: Child exited: 4153 exit code 11
+2021/09/08 11:27:11.995  3630 139985057378944 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2021/09/08 11:27:30.476  3630 139985057378944 GW2!! AppIndicatorHandler: Unhandled AppIndicator action: 0, Errorcode=11
+2021/09/08 11:27:32.121  3630 139985057378944 GW2!! AppIndicatorHandler: Unhandled AppIndicator action: 0, Errorcode=11
+2021/09/08 11:27:32.436  3630 139982779446848 GW2   XClipboard: Shutting down event loop
+2021/09/08 11:27:32.437  3630 139985057378944 GW2   Chat::Stop: Stopping chat
+2021/09/08 11:27:32.437  3630 139985057378944 GW2   ChatManager::UnregisterIncomingCommandRegistration: destroying incomingCommandRegistration
+2021/09/08 11:27:32.437  3630 139985057378944 GW2   IncomingCommandRegistration::Stop: disconnecting ready state properties
+2021/09/08 11:27:32.437  3630 139985057378944 GW2   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2021/09/08 11:27:32.437  3630 139985057378944 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: f46c2a2d-39b4-4c07-839c-80a6d5ec08f4)
+2021/09/08 11:27:32.437  3630 139985057378944 GW2   ChatManagerHolder::Close
+2021/09/08 11:27:32.437  3630 139985057378944 GW2   ChatManager::~ChatManager: destroyed
+2021/09/08 11:27:32.437  3630 139985057378944 GW2   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: destroyed
+2021/09/08 11:27:32.437  3630 139984770156096 GW2   CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: ConversationListModel::Close] trackee expired, callback was not called
+2021/09/08 11:27:32.437  3630 139984770156096 GW2!  CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: ConversationManager::Close] callback was not called and trackee still exists
+2021/09/08 11:27:32.438  3630 139984770156096 GW2!  CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: Chat::Stop] callback was not called and trackee still exists
+2021/09/08 11:27:32.455  3630 139985057378944 GW2   InterProcessBase::SetReadyToProcessCommands(0)
+2021/09/08 11:27:32.455  3630 139985057378944 GW2   VoIP: Destructor
+2021/09/08 11:27:32.455  3630 139984786941504 GW2   VoIP: VoIPFieldLoggerFileSynchronizer (a ThreadPool): StopThreads
+2021/09/08 11:27:32.455  3630 139985057378944 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 70d21b51-312c-4c46-a9ff-85591c1e61c5)
+2021/09/08 11:27:32.455  3630 139985057378944 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: e912f63e-5cdc-4b17-bbb7-eb95af2440d9)
+2021/09/08 11:27:32.455  3630 139985057378944 GW2   InterProcessBase::ShutDown: Shutdown IPC
+2021/09/08 11:27:32.456  3630 139984778548800 GW2   TcpProcessConnector::HandleRead(): Socket gracefully closed (PID=3505)
+2021/09/08 11:27:32.456  3630 139984778548800 GW2   TcpProcessConnector::CloseConnection(): PID=3505
+2021/09/08 11:27:32.456  3630 139984778548800 GW2   InterProcessBase::EventFunctionInternal(): IPC-Connection Closed
+2021/09/08 11:27:32.456  3630 139984778548800 GW2   TcpProcessConnector::CloseConnection(): PID=3505
+2021/09/08 11:27:32.456  3630 139984778548800 GW2   TcpProcessConnector::CloseConnection(): Shutdown socket returned error 107: Transport endpoint is not connected
+2021/09/08 11:27:32.456  3630 139985057378944 GW2   interprocessbase::SecureNetwork destroyed
+2021/09/08 11:27:32.487  3630 139985057378944 GW2   Shutting down DBus IOHandler
+2021/09/08 11:27:32.489  3630 139985057378944 GW2   InterProcessConfigurationHub::SendToConfigurationHandler(): IPC not available, could not send command: CC=1 CT=110
+2021/10/06 09:22:25.176  8393 139639275793216 GW2   Logger started.
+2021/10/06 09:22:25.179  8393 139639275793216 GW2   Found 0 stack dump files ...
+2021/10/06 09:22:25.179  8393 139639275793216 GW2   Found 0 core dump files ...
+2021/10/06 09:22:25.180  8393 139639275793216 GW2   systemd: logind service available
+2021/10/06 09:22:25.181  8393 139639275793216 GW2   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='2', canGraphical=1, canTTY=1, canMultiSession=0]
+2021/10/06 09:22:25.182  8393 139639275793216 GW2   LogindSessionInfo: New session LogindSessionInfo [id=2 user=cheyenne state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY=tty2 seat=seat0 display= vtnr=2 owner=[SysUser: cheyenne [uid=1000, gid=1000 home=/home/cheyenne gecos=Cheyenne Nguyen,,, shell=/bin/bash]] idle=0(1633529884080938) active=1 type=wayland class=user state=active timestamp=1632861401964455 service=gdm-password defaultCG= leader=1417 audit=2 remote=0 rHost= rUser= killProc=0]
+2021/10/06 09:22:25.184  8393 139639275793216 GW2   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2021/10/06 09:22:25.184  8393 139639275793216 GW2   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2021/10/06 09:22:25.184  8393 139639275793216 GW2!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2021/10/06 09:22:25.184  8393 139639275793216 GW2   SysSessionInfoManager::SessionAdded: adding session WaylandSession: [SysSession 450215437 [type=87 vt=2 tty= pseudotty=0 info=1 id=2 user=cheyenne state=user active=1 reliable=1]]
+2021/10/06 09:22:25.185  8393 139639275793216 GW2   SysSessionInfoManager::GetOwnProcessSession: own session cache set to '450215437'
+2021/10/06 09:22:25.186  8393 139639275793216 GW2   Running on Qt 5.15.2
+2021/10/06 09:22:25.250  8393 139639275793216 GW2   Initialised XRandR extension 1.6 (base=88 error=145)
+2021/10/06 09:22:25.250  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/06 09:22:25.250  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/06 09:22:25.250  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/06 09:22:25.250  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/06 09:22:25.258  8393 139639275793216 GW2   Loaded language 'en', using locale 'en'
+2021/10/06 09:22:25.258  8393 139639275793216 GW2   InterProcessBase::SecureNetwork created
+2021/10/06 09:22:25.259  8393 139639275793216 GW2   VoIP: Constructor
+2021/10/06 09:22:25.259  8393 139638326748736 GW2!  Unable to increase the thread priority for thread 7f0014dce640
+2021/10/06 09:22:25.259  8393 139638245160512 GW2   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2021/10/06 09:22:25.259  8393 139638245160512 GW2   Opening local TCP connection to 127.0.0.1:5939, tcp?
+2021/10/06 09:22:25.259  8393 139639228823104 GW2   Local TCP connection established
+2021/10/06 09:22:25.262  8393 139639195252288 GW2   SystemID m=1 s=1 d29da0527d6e4430bae38f7f4f48dadb
+2021/10/06 09:22:25.263  8393 139639195252288 GW2   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2021/10/06 09:22:25.263  8393 139639195252288 GW2   IpcRemoteSettingsHandler::HandleCommand UserSettings process sends sync settings response to network.
+2021/10/06 09:22:25.263  8393 139638974965312 GW2   Received Control_InitIPC_Response processtype=1
+2021/10/06 09:22:25.263  8393 139638974965312 GW2   Received Control_InitIPC_Response runningProcesses=3
+2021/10/06 09:22:25.263  8393 139638974965312 GW2   IPCConnection: all processes 3 completely initialized
+
+
+
+Start:              2021/10/06 09:22:25.263 (UTC-5:00)
+Version:            15.22.3 H
+Version short hash: 1d46fbc0112
+ID:                 0
+Loglevel:           Info (100)
+License:            10000
+IC:                 -683752716
+CPU:                11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+CPU extensions:     l9
+OS:                 Lx Ubuntu 21.04 (x86_64)
+IP:                 10.70.10.118
+Proxy-Settings:     Type=0 IP= User=
+
+2021/10/06 09:22:25.284  8393 139639275793216 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/06 09:22:25.527  8393 139639275793216 GW2   Chat::Start: chat starting
+2021/10/06 09:22:25.533  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from None to NotReady
+2021/10/06 09:22:25.533  8393 139639275793216 GW2   InterProcessBase::SetReadyToProcessCommands(1)
+2021/10/06 09:22:25.533  8393 139638983358016 GW2   ChatManagerHolder::ClearAccountChat
+2021/10/06 09:22:25.534  8393 139638983358016 GW2   ChatManager::ChatManager: created
+2021/10/06 09:22:25.534  8393 139638983358016 GW2   ChatManager::Factory: ChatManager created
+2021/10/06 09:22:25.534  8393 139638983358016 GW2   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2021/10/06 09:22:25.534  8393 139638983358016 GW2   IncomingCommandRegistration::Start: registering for ready state properties
+2021/10/06 09:22:25.534  8393 139639275793216 GW2   Initialised XFixes extension (base=86 error=138)
+2021/10/06 09:22:25.539  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/06 09:22:25.876  8393 139639195252288 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/06 09:22:25.877  8393 139639203644992 GW2   IDLabelContent::UpdateImpl() IDs changed: SessionID "377940740", ServerID "0"
+2021/10/06 09:22:25.877  8393 139639195252288 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2021/10/06 09:22:25.877  8393 139639220430400 GW2   IDLabelContent::UpdateImpl() IDs changed: SessionID "377940740", ServerID "377940740"
+2021/10/06 09:22:27.382  8393 139638983358016 GW2   Account::UpdateState: KA = 1, active = 1
+2021/10/06 09:22:27.383  8393 139639275793216 GW2   Account::SetLoginState: new state: 2
+2021/10/06 09:22:27.383  8393 139639228823104 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: b549ca6b-50a6-4b22-bc7a-94c1968b44bc)
+2021/10/06 09:22:27.383  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2021/10/06 09:22:27.383  8393 139639228823104 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 2c282f90-6cca-45c7-9da5-d7513ade5d08)
+2021/10/06 09:22:27.383  8393 139639228823104 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: c8d7c2d1-ae13-4090-bd25-1765c1d9ad1d)
+2021/10/06 09:22:27.383  8393 139639228823104 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2021/10/06 09:22:27.384  8393 139639228823104 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2021/10/06 09:22:27.384  8393 139639228823104 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 0b6fe10f-6fbd-4df2-998d-427593b21261)
+2021/10/06 09:22:27.384  8393 139639228823104 GW2   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2021/10/06 09:22:27.739  8393 139639228823104 GW2   IpcRouterClock: received router time: 20211006T142227.235055
+2021/10/06 09:22:27.767  8393 139638966572608 GW2!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/10/06 09:38:22.057  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/06 09:38:22.072  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 09:38:22.413  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 09:38:22.415  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/06 09:41:27.359  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/06 09:41:27.458  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/06 09:54:41.440  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/06 09:54:41.451  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 09:54:41.794  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 09:54:41.798  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/06 11:20:09.818  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/06 11:20:09.886  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/06 11:25:38.123  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 11:25:38.123  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/06 11:25:38.123  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 11:25:38.124  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=1632, c=1632)
+2021/10/06 11:25:38.124  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=84, c=164)
+2021/10/06 11:32:00.150  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/06 11:32:00.151  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND2 1920x1080@60Hz [1920, 0, 3840, 1080] - 1
+2021/10/06 11:32:00.151  8393 139639275793216 GW2   Virtual Desktop [0, 0, 3840, 1200]
+2021/10/06 11:59:21.731  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/06 11:59:21.740  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 11:59:21.741  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 11:59:21.744  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/06 12:44:49.354  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/06 12:44:49.451  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/06 13:01:14.354  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 13:01:14.354  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/06 13:01:14.354  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 13:01:14.354  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=284, c=284)
+2021/10/06 13:01:14.355  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=2, c=4)
+2021/10/06 13:15:15.897  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 13:15:15.898  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/06 13:15:15.898  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 13:15:15.898  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=1526, c=1526)
+2021/10/06 13:15:15.898  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=206, c=412)
+2021/10/06 13:29:18.366  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 13:29:18.367  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 13:29:18.368  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=88, c=176)
+2021/10/06 13:29:36.676  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 13:29:36.677  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 13:29:36.678  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=91, c=182)
+2021/10/06 13:31:12.507  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 13:40:56.796  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 13:40:56.796  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 13:40:56.797  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=84, c=164)
+2021/10/06 13:51:04.923  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 13:51:04.926  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 13:51:04.926  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=84, c=164)
+2021/10/06 14:30:55.074  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/06 14:30:55.084  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 14:30:55.085  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 14:30:55.087  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/06 14:54:11.592  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/06 14:54:11.689  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/06 14:57:26.492  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/06 14:57:26.501  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 14:57:26.501  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 14:57:26.504  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/06 15:09:43.344  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/06 15:09:43.451  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/06 15:27:26.497  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 15:27:26.497  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/06 15:27:26.497  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 15:27:26.497  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=378, c=378)
+2021/10/06 15:27:26.497  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=52, c=104)
+2021/10/06 15:29:43.682  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 15:29:43.683  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/06 15:29:43.683  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 15:29:43.683  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=456, c=456)
+2021/10/06 15:29:43.683  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=19, c=38)
+2021/10/06 15:37:16.163  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 15:37:16.164  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/06 15:37:16.165  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 15:37:16.165  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=1516, c=1516)
+2021/10/06 15:37:16.165  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=196, c=392)
+2021/10/06 15:38:39.918  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/06 15:38:39.918  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/06 15:40:31.131  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 15:40:31.132  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 15:40:31.136  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=87, c=174)

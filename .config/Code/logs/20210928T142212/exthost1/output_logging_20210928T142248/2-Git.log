@@ -1,0 +1,213 @@
+Validating found git in: git
+Using git 2.30.2 from git
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: this operation must be run in a work tree\n"
+}
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git/COMMIT_EDITMSG' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git/HEAD' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git/branches' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: this operation must be run in a work tree\n"
+}
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git/config' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git/description' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git/hooks' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: this operation must be run in a work tree\n"
+}
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git/index' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git/info' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: this operation must be run in a work tree\n"
+}
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git/logs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: this operation must be run in a work tree\n"
+}
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git/objects' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: this operation must be run in a work tree\n"
+}
+Opening repository for path='/home/cheyenne/Projects/counterapp/.git/refs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: this operation must be run in a work tree\n"
+}
+Opening repository for path='/home/cheyenne/Downloads' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/cheyenne/Downloads' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: /home/cheyenne/Projects/counterapp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.html
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/index.html
+> git cat-file -s 86684255146cbbbf51055426b5828dfaaa6cd87e
+> git check-ignore -v -z --stdin
+> git show --textconv :script.js
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/script.js
+> git cat-file -s af7a25ee6e973ef72242a4bed1708444dfbad190
+> git check-ignore -v -z --stdin
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/styles.css
+> git cat-file -s aa9c93c914d5d159aad1373e07fa179bdfadd24f
+> git check-ignore -v -z --stdin
+> git show --textconv :script.js
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/script.js
+> git cat-file -s af7a25ee6e973ef72242a4bed1708444dfbad190
+> git show --textconv :.git/.vscode/launch.json
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/.git/.vscode/launch.json
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/.git/.vscode/launch.json
+> git show --textconv :.git/.vscode/launch.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :script.js
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/script.js
+> git cat-file -s af7a25ee6e973ef72242a4bed1708444dfbad190
+> git show --textconv :index.html
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/index.html
+> git cat-file -s 86684255146cbbbf51055426b5828dfaaa6cd87e
+> git show --textconv :.git/.vscode/launch.json
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/.git/.vscode/launch.json
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/styles.css
+> git cat-file -s aa9c93c914d5d159aad1373e07fa179bdfadd24f
+> git show --textconv :script.js
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/script.js
+> git cat-file -s af7a25ee6e973ef72242a4bed1708444dfbad190
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.html
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/index.html
+> git cat-file -s 86684255146cbbbf51055426b5828dfaaa6cd87e
+> git show --textconv :script.js
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/script.js
+> git cat-file -s af7a25ee6e973ef72242a4bed1708444dfbad190
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.html
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/index.html
+> git cat-file -s 86684255146cbbbf51055426b5828dfaaa6cd87e
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/styles.css
+> git cat-file -s aa9c93c914d5d159aad1373e07fa179bdfadd24f
+> git show --textconv :index.html
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/index.html
+> git cat-file -s 86684255146cbbbf51055426b5828dfaaa6cd87e
+> git show --textconv :script.js
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/script.js
+> git cat-file -s af7a25ee6e973ef72242a4bed1708444dfbad190
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.html
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/index.html
+> git cat-file -s 86684255146cbbbf51055426b5828dfaaa6cd87e
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/styles.css
+> git cat-file -s aa9c93c914d5d159aad1373e07fa179bdfadd24f
+> git show --textconv :index.html
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/index.html
+> git cat-file -s 86684255146cbbbf51055426b5828dfaaa6cd87e
+> git show --textconv :script.js
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/script.js
+> git cat-file -s af7a25ee6e973ef72242a4bed1708444dfbad190
+> git show --textconv :index.html
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/index.html
+> git cat-file -s 86684255146cbbbf51055426b5828dfaaa6cd87e
+> git show --textconv :script.js
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/script.js
+> git cat-file -s af7a25ee6e973ef72242a4bed1708444dfbad190
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/styles.css
+> git cat-file -s aa9c93c914d5d159aad1373e07fa179bdfadd24f
+> git show --textconv :script.js
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/script.js
+> git cat-file -s af7a25ee6e973ef72242a4bed1708444dfbad190
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.html
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/index.html
+> git cat-file -s 86684255146cbbbf51055426b5828dfaaa6cd87e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/cheyenne/Projects/counterapp/index.html
+> git cat-file -s 86684255146cbbbf51055426b5828dfaaa6cd87e
+> git show --textconv :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

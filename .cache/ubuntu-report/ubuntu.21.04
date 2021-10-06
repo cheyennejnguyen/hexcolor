@@ -1,0 +1,76 @@
+{
+  "Version": "21.04",
+  "OEM": {
+    "Vendor": "LENOVO",
+    "Product": "20XW003GUS",
+    "Family": "ThinkPad X1 Carbon Gen 9"
+  },
+  "BIOS": {
+    "Vendor": "LENOVO",
+    "Version": "N32ET63W (1.39 )"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "8",
+    "Threads": "2",
+    "Cores": "4",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "140",
+    "Stepping": "1",
+    "Name": "11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v4",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "9a49"
+    }
+  ],
+  "RAM": 16.1,
+  "Partitions": [
+    982.9,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "300mmx190mm",
+      "Resolution": "1920x1200",
+      "Frequency": "59.88"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_US",
+  "Timezone": "America/Chicago",
+  "Install": {
+    "Media": "Ubuntu 21.04 \"Hirsute Hippo\" - Release amd64 (20210420)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": true,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "4": "console_setup",
+      "7": "wireless",
+      "162": "prepare",
+      "213": "partman",
+      "360": "start_install",
+      "403": "timezone",
+      "419": "usersetup",
+      "477": "user_done",
+      "696": "done"
+    }
+  }
+}

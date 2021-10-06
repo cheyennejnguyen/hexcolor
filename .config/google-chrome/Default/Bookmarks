@@ -1,0 +1,40 @@
+{
+   "checksum": "f05ed2dca79380c6d6c27b8e92322ada",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13277231729273117",
+            "guid": "b192768c-98c9-4b2b-a0df-af596699ed01",
+            "id": "5",
+            "name": "100 Days of JavaScript | Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/course/100-days-of-javascript/learn/lecture/24989010?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview"
+         } ],
+         "date_added": "13277231716577336",
+         "date_modified": "13277231729273117",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13277231716577338",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13277231716577341",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

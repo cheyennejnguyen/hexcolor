@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/cheyenne/Downloads/teamviewer-host_15.21.4_amd64.deb" added="2021-09-08T16:24:00Z" modified="2021-09-08T16:24:00Z" visited="2021-09-08T16:24:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-08T16:24:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Downloads/google-chrome-stable_current_amd64.deb" added="2021-09-08T16:28:04Z" modified="2021-09-08T16:28:04Z" visited="2021-09-08T16:28:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-08T16:28:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Downloads" added="2021-09-27T15:54:54Z" modified="2021-10-06T19:15:30Z" visited="2021-09-27T15:54:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-09-27T15:54:54Z" count="1"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-10-06T19:15:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Downloads/--+1.+Template/--%201.%20Template/index.html" added="2021-09-27T16:07:26Z" modified="2021-09-27T16:07:26Z" visited="2021-09-27T16:07:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-09-27T16:07:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Downloads/--+1.+Template/--%201.%20Template/script.js" added="2021-09-27T16:07:41Z" modified="2021-09-27T16:07:41Z" visited="2021-09-27T16:07:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-09-27T16:07:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Downloads/--+1.+Template/--%201.%20Template/styles.css" added="2021-09-27T16:07:52Z" modified="2021-09-27T16:07:52Z" visited="2021-09-27T16:07:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-09-27T16:07:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects" added="2021-09-28T19:01:09Z" modified="2021-09-28T19:01:09Z" visited="2021-09-28T19:01:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-09-28T19:01:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/counterapp/script.js" added="2021-09-28T19:22:02Z" modified="2021-09-28T20:39:35Z" visited="2021-09-28T19:22:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-09-28T20:39:35Z" count="3"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-09-28T19:58:43Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/counterapp/.git" added="2021-09-28T19:22:47Z" modified="2021-09-28T19:22:47Z" visited="2021-09-28T19:22:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-09-28T19:22:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Downloads/--+1.+Template.zip" added="2021-09-28T19:23:44Z" modified="2021-10-06T19:15:51Z" visited="2021-09-28T19:23:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T19:15:51Z" count="4"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-10-06T19:14:45Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/counterapp/index.html" added="2021-09-28T19:24:43Z" modified="2021-10-06T18:05:37Z" visited="2021-09-28T19:24:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T16:45:48Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-10-06T18:05:37Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/counterapp/styles.css" added="2021-09-28T19:24:55Z" modified="2021-09-28T20:05:12Z" visited="2021-09-28T19:24:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-09-28T19:24:55Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-09-28T20:05:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/rng.html" added="2021-10-06T16:46:48Z" modified="2021-10-06T16:46:48Z" visited="2021-10-06T16:46:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T16:46:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/random%20number%20gen" added="2021-10-06T16:47:34Z" modified="2021-10-06T16:47:34Z" visited="2021-10-06T16:47:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T16:47:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/counterapp" added="2021-10-06T18:10:45Z" modified="2021-10-06T18:10:45Z" visited="2021-10-06T18:10:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T18:10:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/counterapp/counterapp.code-workspace" added="2021-10-06T18:11:13Z" modified="2021-10-06T18:11:13Z" visited="2021-10-06T18:11:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T18:11:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/random_number" added="2021-10-06T18:12:02Z" modified="2021-10-06T18:12:52Z" visited="2021-10-06T18:12:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-10-06T18:12:02Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T18:12:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/random_number/random_number.code-workspace" added="2021-10-06T18:13:07Z" modified="2021-10-06T19:11:17Z" visited="2021-10-06T18:13:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T19:11:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/random_number/const%20rand%20=%20Math.floor(Math.random()%20*1.js" added="2021-10-06T18:18:30Z" modified="2021-10-06T18:18:30Z" visited="2021-10-06T18:18:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T18:18:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/hexcolor" added="2021-10-06T19:09:32Z" modified="2021-10-06T19:10:50Z" visited="2021-10-06T19:09:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-10-06T19:09:32Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T19:10:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/random_number/README.md" added="2021-10-06T19:11:17Z" modified="2021-10-06T19:11:17Z" visited="2021-10-06T19:11:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T19:11:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/random_number/randomnumber.js" added="2021-10-06T19:11:17Z" modified="2021-10-06T20:17:45Z" visited="2021-10-06T19:11:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T20:17:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/random_number/rng.html" added="2021-10-06T19:11:17Z" modified="2021-10-06T19:22:20Z" visited="2021-10-06T19:11:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T19:22:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/random_number/styles.css" added="2021-10-06T19:11:17Z" modified="2021-10-06T20:13:34Z" visited="2021-10-06T19:11:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T20:13:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Downloads/index.html" added="2021-10-06T19:15:39Z" modified="2021-10-06T19:15:39Z" visited="2021-10-06T19:15:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T19:15:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/hexcolor/styles.css" added="2021-10-06T20:15:56Z" modified="2021-10-06T20:15:56Z" visited="2021-10-06T20:15:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T20:15:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/hexcolor/rng.html" added="2021-10-06T20:16:07Z" modified="2021-10-06T20:16:07Z" visited="2021-10-06T20:16:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T20:16:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/random_number/hex.js" added="2021-10-06T20:29:02Z" modified="2021-10-06T20:29:02Z" visited="2021-10-06T20:29:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T20:29:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cheyenne/Projects/hexcolor/hexcolor.html" added="2021-10-06T20:31:01Z" modified="2021-10-06T20:31:01Z" visited="2021-10-06T20:31:01.677867Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T20:31:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

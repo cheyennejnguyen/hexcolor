@@ -1,0 +1,233 @@
+Validating found git in: git
+Using git 2.30.2 from git
+Opening repository for path='/home/cheyenne/Projects/random_number' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/cheyenne/Projects/random_number/random_number.code-workspace' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/cheyenne/Projects/random_number/rng.html' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/cheyenne/Projects/random_number' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: /home/cheyenne/Projects/random_number
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :rng.html
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git show --textconv :rng.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :const rand = Math.floor(Math.random() *1.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/const rand = Math.floor(Math.random() *1.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.vscode/launch.json
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/.vscode/launch.json
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :const rand = Math.floor(Math.random() *1.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/const rand = Math.floor(Math.random() *1.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :rng.html
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git show --textconv :const rand = Math.floor(Math.random() *1.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/const rand = Math.floor(Math.random() *1.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :rng.html
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git show --textconv :rng.html
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git show --textconv :rng.html
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git show --textconv :rng.html
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git show --textconv :rng.html
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/styles.css
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git show --textconv :rng.html
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git show --textconv :rng.html
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git show --textconv :styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/styles.css
+> git show --textconv :rng.html
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git show --textconv :random_number.code-workspace
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/random_number.code-workspace
+> git show --textconv :const rand = Math.floor(Math.random() *1.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/const rand = Math.floor(Math.random() *1.js
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git show --textconv :random_number.code-workspace
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/random_number.code-workspace
+> git show --textconv :const rand = Math.floor(Math.random() *1.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/const rand = Math.floor(Math.random() *1.js
+> git show --textconv :random_number.code-workspace
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/random_number.code-workspace
+> git show --textconv :const rand = Math.floor(Math.random() *1.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/const rand = Math.floor(Math.random() *1.js
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :rng.html
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/rng.html
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git show --textconv :README.md
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/README.md
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :.vscode/launch.json
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/.vscode/launch.json
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git show --textconv :.vscode/launch.json
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/.vscode/launch.json
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git show --textconv :.vscode/launch.json
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/.vscode/launch.json
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git show --textconv :.vscode/launch.json
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/.vscode/launch.json
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.vscode/launch.json
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/.vscode/launch.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.vscode/launch.json
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/.vscode/launch.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/cheyenne/Projects/random_number/.vscode/launch.json
+> git show --textconv :randomnumber.js
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/randomnumber.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.vscode/launch.json
+> git ls-files --stage -- /home/cheyenne/Projects/random_number/.vscode/launch.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

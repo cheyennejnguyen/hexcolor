@@ -1,0 +1,6 @@
+2021/09/28-14:21:07.426 965 Reusing MANIFEST /home/cheyenne/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/09/28-14:21:07.427 965 Recovering log #4
+2021/09/28-14:21:07.427 965 Reusing old log /home/cheyenne/.config/Slack/Local Storage/leveldb/000004.log 
+2021/09/28-14:53:09.184 1cdd Level-0 table #8: started
+2021/09/28-14:53:09.196 1cdd Level-0 table #8: 11549 bytes OK
+2021/09/28-14:53:09.200 1cdd Delete type=0 #4

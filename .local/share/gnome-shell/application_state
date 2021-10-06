@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="17.375" last-seen="1633552785"/>
+    <application id="slack_slack.desktop" score="14787.125" last-seen="1633552781"/>
+    <application id="Zoom.desktop" score="47.25" last-seen="1632757703"/>
+    <application id="google-chrome.desktop" score="0.875" last-seen="1632758111"/>
+    <application id="code_code.desktop" score="4790.75" last-seen="1633552711"/>
+    <application id="org.gnome.gedit.desktop" score="2.375" last-seen="1632861577"/>
+    <application id="firefox.desktop" score="2" last-seen="1633537548"/>
+    <application id="org.gnome.Terminal.desktop" score="88" last-seen="1633552784"/>
+    <application id="gnome-control-center.desktop" score="2.625" last-seen="1633545949"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1632753525"/>
+    <application id="update-manager.desktop" score="0.625" last-seen="1633530159"/>
+    <application id="org.gnome.FileRoller.desktop" score="3" last-seen="1633552274"/>
+  </context>
+</application-state>
