@@ -1,0 +1,14 @@
+Validating found git in: git
+Using git 2.30.2 from git
+> git rev-parse --git-dir
+Open repository: /home/cheyenne/Projects/hexcolor
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :hexcolor.html
+> git ls-files --stage -- /home/cheyenne/Projects/hexcolor/hexcolor.html
+> git cat-file -s 0b2785a1e6978f955d0da6fc65db411033f87173
+> git check-ignore -v -z --stdin

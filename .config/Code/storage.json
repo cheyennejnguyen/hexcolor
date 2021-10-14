@@ -3,6 +3,9 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/cheyenne/Projects/modal"
+            },
+            {
                 "workspace": {
                     "id": "4af20d9decd547b8bf884afee341fac6",
                     "configPath": "file:///home/cheyenne/Projects/random_number/random_number.code-workspace"
@@ -36,6 +39,33 @@
                 "folderUri": "file:///home/cheyenne/Downloads"
             },
             {
+                "fileUri": "file:///home/cheyenne/Projects/checker/hex.js"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/checker/checker.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/checker/index.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/checker/styles.css"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Downloads/index.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/modal/README.md"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/modal/hex.js"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/modal/rng.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/modal/styles.css"
+            },
+            {
                 "fileUri": "file:///home/cheyenne/Projects/random_number/randomnumber.js"
             },
             {
@@ -46,9 +76,6 @@
             },
             {
                 "fileUri": "file:///home/cheyenne/Downloads/--%2B1.%2BTemplate.zip"
-            },
-            {
-                "fileUri": "file:///home/cheyenne/Downloads/index.html"
             },
             {
                 "fileUri": "file:///home/cheyenne/Projects/random_number/README.md"
@@ -95,7 +122,7 @@
                     },
                     {
                         "id": "workbench.action.openWorkspace",
-                        "label": "Open Wor&&kspace..."
+                        "label": "Open Wor&&kspace from File..."
                     },
                     {
                         "id": "submenuitem.30",
@@ -108,6 +135,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/cheyenne/Projects/modal",
+                                        "path": "/home/cheyenne/Projects/modal",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/modal"
                                 },
                                 {
                                     "id": "openRecentWorkspace",
@@ -201,45 +239,45 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/random_number/randomnumber.js",
-                                        "path": "/home/cheyenne/Projects/random_number/randomnumber.js",
+                                        "external": "file:///home/cheyenne/Projects/checker/hex.js",
+                                        "path": "/home/cheyenne/Projects/checker/hex.js",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/random_number/randomnumber.js"
+                                    "label": "~/Projects/checker/hex.js"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/random_number/styles.css",
-                                        "path": "/home/cheyenne/Projects/random_number/styles.css",
+                                        "external": "file:///home/cheyenne/Projects/checker/checker.html",
+                                        "path": "/home/cheyenne/Projects/checker/checker.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/random_number/styles.css"
+                                    "label": "~/Projects/checker/checker.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/random_number/rng.html",
-                                        "path": "/home/cheyenne/Projects/random_number/rng.html",
+                                        "external": "file:///home/cheyenne/Projects/checker/index.html",
+                                        "path": "/home/cheyenne/Projects/checker/index.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/random_number/rng.html"
+                                    "label": "~/Projects/checker/index.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Downloads/--%2B1.%2BTemplate.zip",
-                                        "path": "/home/cheyenne/Downloads/--+1.+Template.zip",
+                                        "external": "file:///home/cheyenne/Projects/checker/styles.css",
+                                        "path": "/home/cheyenne/Projects/checker/styles.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/--+1.+Template.zip"
+                                    "label": "~/Projects/checker/styles.css"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -256,56 +294,56 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/random_number/README.md",
-                                        "path": "/home/cheyenne/Projects/random_number/README.md",
+                                        "external": "file:///home/cheyenne/Projects/modal/README.md",
+                                        "path": "/home/cheyenne/Projects/modal/README.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/random_number/README.md"
+                                    "label": "~/Projects/modal/README.md"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/random_number/random_number.code-workspace",
-                                        "path": "/home/cheyenne/Projects/random_number/random_number.code-workspace",
+                                        "external": "file:///home/cheyenne/Projects/modal/hex.js",
+                                        "path": "/home/cheyenne/Projects/modal/hex.js",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/random_number/random_number.code-workspace"
+                                    "label": "~/Projects/modal/hex.js"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/counterapp/index.html",
-                                        "path": "/home/cheyenne/Projects/counterapp/index.html",
+                                        "external": "file:///home/cheyenne/Projects/modal/rng.html",
+                                        "path": "/home/cheyenne/Projects/modal/rng.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/counterapp/index.html"
+                                    "label": "~/Projects/modal/rng.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/counterapp/styles.css",
-                                        "path": "/home/cheyenne/Projects/counterapp/styles.css",
+                                        "external": "file:///home/cheyenne/Projects/modal/styles.css",
+                                        "path": "/home/cheyenne/Projects/modal/styles.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/counterapp/styles.css"
+                                    "label": "~/Projects/modal/styles.css"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/counterapp/script.js",
-                                        "path": "/home/cheyenne/Projects/counterapp/script.js",
+                                        "external": "file:///home/cheyenne/Projects/random_number/randomnumber.js",
+                                        "path": "/home/cheyenne/Projects/random_number/randomnumber.js",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/counterapp/script.js"
+                                    "label": "~/Projects/random_number/randomnumber.js"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -392,7 +430,7 @@
                                 },
                                 {
                                     "id": "workbench.extensions.action.showRecommendedKeymapExtensions",
-                                    "label": "&&Keymaps"
+                                    "label": "&&Migrate Keyboard Shortcuts from..."
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -707,6 +745,13 @@
                                 {
                                     "id": "workbench.action.splitEditorRight",
                                     "label": "Split &&Right"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1205,15 +1250,19 @@
                 "items": [
                     {
                         "id": "workbench.action.openWalkthrough",
-                        "label": "Welcome"
+                        "label": "Get Started"
                     },
                     {
-                        "id": "workbench.action.showInteractivePlayground",
-                        "label": "I&&nteractive Playground"
+                        "id": "workbench.action.showCommands",
+                        "label": "Show All Commands"
                     },
                     {
                         "id": "workbench.action.openDocumentationUrl",
                         "label": "&&Documentation"
+                    },
+                    {
+                        "id": "workbench.action.showInteractivePlayground",
+                        "label": "Editor Playgrou&&nd"
                     },
                     {
                         "id": "update.showCurrentReleaseNotes",
@@ -1227,8 +1276,8 @@
                         "label": "&&Keyboard Shortcuts Reference"
                     },
                     {
-                        "id": "workbench.action.openIntroductoryVideosUrl",
-                        "label": "Introductory &&Videos"
+                        "id": "workbench.action.openVideoTutorialsUrl",
+                        "label": "&&Video Tutorials"
                     },
                     {
                         "id": "workbench.action.openTipsAndTricksUrl",
@@ -1327,11 +1376,6 @@
                 "label": "Ctrl+K Ctrl+S",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+s"
-            },
-            "workbench.extensions.action.showRecommendedKeymapExtensions": {
-                "label": "Ctrl+K Ctrl+M",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+m"
             },
             "workbench.action.selectTheme": {
                 "label": "Ctrl+K Ctrl+T",
@@ -1479,6 +1523,11 @@
                 "label": "Ctrl+NumPad0",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+numpad0"
+            },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
@@ -1729,16 +1778,16 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/cheyenne/.config/Code/Backups/1633547622575",
+            "backupPath": "/home/cheyenne/.config/Code/Backups/1634172057340",
             "uiState": {
-                "mode": 0,
-                "x": 2368,
-                "y": 193,
+                "mode": 1,
+                "x": 72,
+                "y": 299,
                 "width": 1024,
                 "height": 768
             }
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/cheyenne/Projects/random_number"
+    "pickerWorkingDir": "/home/cheyenne/Projects/checker"
 }

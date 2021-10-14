@@ -4939,3 +4939,2204 @@
   "trace_id": "{\"traceId\":\"cd97e38b765292c5\",\"parentSpanId\":\"cd97e38b765292c5\"}"
 }
 [10/06/21, 15:39:52:368] info: Creating new Electron notification. 
+[10/06/21, 15:54:07:745] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633553647.033200",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633553647.033200",
+  "channel": "C02AABUF37G",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02AABUF37G&message=1633553647.033200&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"daa952b7ed16ae34\",\"parentSpanId\":\"daa952b7ed16ae34\"}"
+}
+[10/06/21, 15:54:07:746] info: Creating new Electron notification. 
+[10/06/21, 15:56:25:988] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633553785.033400",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633553785.033400",
+  "channel": "C02AABUF37G",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02AABUF37G&message=1633553785.033400&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"4e02b86647fcd4bf\",\"parentSpanId\":\"4e02b86647fcd4bf\"}"
+}
+[10/06/21, 15:56:25:989] info: Creating new Electron notification. 
+[10/06/21, 16:20:03:149] info: Store: DISPLAY_METRICS_CHANGED 
+[10/06/21, 16:20:03:155] info: Store: DISPLAY_METRICS_CHANGED 
+[10/06/21, 16:20:03:156] info: Store: DISPLAY_METRICS_CHANGED 
+[10/06/21, 16:20:03:213] info: Store: DISPLAY_METRICS_CHANGED 
+[10/06/21, 16:20:03:214] info: Store: DISPLAY_METRICS_CHANGED 
+[10/06/21, 16:20:04:127] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 445,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/06/21, 16:20:04:193] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 445,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/06/21, 16:20:04:766] info: Store: DISPLAY_METRICS_CHANGED 
+[10/06/21, 16:20:04:768] info: Store: DISPLAY_ADDED 
+[10/06/21, 16:20:05:414] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 445,
+      "y": 177,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/06/21, 16:20:05:480] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 445,
+      "y": 177,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/06/21, 16:20:12:939] info: Store: SET_SUSPEND_STATUS 
+[10/06/21, 16:20:12:952] info: Store: DISPLAY_REMOVED 
+[10/06/21, 16:20:12:955] info: Store: DISPLAY_REMOVED 
+[10/06/21, 16:20:12:957] info: Store: DISPLAY_ADDED 
+[10/06/21, 16:20:12:959] info: Store: DISPLAY_METRICS_CHANGED 
+[10/06/21, 16:20:14:001] info: Store: SET_NETWORK_STATUS offline
+[10/07/21, 10:10:41:163] info: Store: POWER_RESUMED 
+[10/07/21, 10:10:41:163] info: Store: SET_SUSPEND_STATUS true
+[10/07/21, 10:10:41:378] info: Store: DISPLAY_REMOVED 
+[10/07/21, 10:10:41:381] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 10:11:05:935] info: Store: DISPLAY_ADDED 
+[10/07/21, 10:11:06:881] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 2365,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/07/21, 10:11:06:882] info: Main window moved to display 
+{
+  "id": 1
+}
+[10/07/21, 10:11:06:950] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 2365,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/07/21, 10:11:12:361] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:11:29:582] info: Attempted to close the window, hiding due to run from tray 
+[10/07/21, 10:11:29:583] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": false
+  },
+  "fromEvent": true
+}
+[10/07/21, 10:11:29:585] info: Store: UPDATE_SETTINGS 
+{
+  "hasRunFromTray": true
+}
+[10/07/21, 10:11:29:587] info: Store: SHOW_TRAY_BALLOON 
+{
+  "title": "Why didn’t Slack quit?",
+  "content": "Slack’s set to stay running in the notification area. To change this, visit Preferences > Advanced."
+}
+[10/07/21, 10:11:29:588] info: Tray Handler: Showing a tray balloon with title: Why didn’t Slack quit? 
+[10/07/21, 10:11:30:599] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 2365,
+      "y": 126,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/07/21, 10:11:30:666] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 2365,
+      "y": 126,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/07/21, 10:21:02:191] info: Feature Check: requesting features from https://app.slack.com/api/ 
+[10/07/21, 10:21:02:371] info: Feature Check: received experiments 
+{
+  "ok": true,
+  "experiments": []
+}
+[10/07/21, 10:45:09:953] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633621509.000600",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633621509.000600",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633621509.000600&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"13e26fdf6d9e6518\",\"parentSpanId\":\"13e26fdf6d9e6518\"}"
+}
+[10/07/21, 10:45:09:953] info: Creating new Electron notification. 
+[10/07/21, 10:45:10:354] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:48:22:549] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633621702.000100",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633621702.000100",
+  "channel": "D024JJKNYHM",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D024JJKNYHM&message=1633621702.000100&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"ec391993349d376c\",\"parentSpanId\":\"ec391993349d376c\"}"
+}
+[10/07/21, 10:48:22:550] info: Creating new Electron notification. 
+[10/07/21, 10:48:22:949] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:49:04:554] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:49:18:034] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:49:24:008] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633621763.001100",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633621763.001100",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633621763.001100&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"ba66b3081e9d528c\",\"parentSpanId\":\"ba66b3081e9d528c\"}"
+}
+[10/07/21, 10:49:24:009] info: Creating new Electron notification. 
+[10/07/21, 10:49:24:355] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:49:41:223] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633621781.001500",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633621781.001500",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633621781.001500&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"65b3aefec648b16e\",\"parentSpanId\":\"65b3aefec648b16e\"}"
+}
+[10/07/21, 10:49:41:224] info: Creating new Electron notification. 
+[10/07/21, 10:49:41:768] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:50:16:982] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:51:09:644] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633621869.002200",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633621869.002200",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633621869.002200&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"157e727c6cb2b827\",\"parentSpanId\":\"157e727c6cb2b827\"}"
+}
+[10/07/21, 10:51:09:645] info: Creating new Electron notification. 
+[10/07/21, 10:51:09:785] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:51:18:078] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:52:58:105] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633621977.001300",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633621977.001300",
+  "channel": "D024JJKNYHM",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D024JJKNYHM&message=1633621977.001300&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"fce07c3588e72df4\",\"parentSpanId\":\"fce07c3588e72df4\"}"
+}
+[10/07/21, 10:52:58:106] info: Creating new Electron notification. 
+[10/07/21, 10:52:58:145] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:53:18:157] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:56:23:661] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 10:57:35:990] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633622255.003900",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633622255.003900",
+  "channel": "D024JJKNYHM",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D024JJKNYHM&message=1633622255.003900&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"be795cb48c2f5e3c\",\"parentSpanId\":\"be795cb48c2f5e3c\"}"
+}
+[10/07/21, 10:57:35:991] info: Creating new Electron notification. 
+[10/07/21, 10:57:36:069] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:57:38:305] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:59:12:575] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633622352.005200",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633622352.005200",
+  "channel": "D024JJKNYHM",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D024JJKNYHM&message=1633622352.005200&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"f0cc5d6e382d637d\",\"parentSpanId\":\"f0cc5d6e382d637d\"}"
+}
+[10/07/21, 10:59:12:576] info: Creating new Electron notification. 
+[10/07/21, 10:59:13:148] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:59:18:363] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:59:34:358] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633622374.005800",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633622374.005800",
+  "channel": "D024JJKNYHM",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D024JJKNYHM&message=1633622374.005800&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"e781d7ddb9cc9da3\",\"parentSpanId\":\"e781d7ddb9cc9da3\"}"
+}
+[10/07/21, 10:59:34:358] info: Creating new Electron notification. 
+[10/07/21, 10:59:34:480] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 10:59:38:365] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:00:11:832] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633622411.007100",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633622411.007100",
+  "channel": "D024JJKNYHM",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D024JJKNYHM&message=1633622411.007100&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"e2eafca1d5921eaa\",\"parentSpanId\":\"e2eafca1d5921eaa\"}"
+}
+[10/07/21, 11:00:11:833] info: Creating new Electron notification. 
+[10/07/21, 11:00:12:340] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:00:18:375] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:02:28:342] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633622548.008800",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633622548.008800",
+  "channel": "D024JJKNYHM",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D024JJKNYHM&message=1633622548.008800&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"f14ff578ef33983e\",\"parentSpanId\":\"f14ff578ef33983e\"}"
+}
+[10/07/21, 11:02:28:342] info: Creating new Electron notification. 
+[10/07/21, 11:02:28:548] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:02:39:001] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:02:40:169] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633622560.009100",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633622560.009100",
+  "channel": "D024JJKNYHM",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D024JJKNYHM&message=1633622560.009100&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"6cc547336c7bab07\",\"parentSpanId\":\"6cc547336c7bab07\"}"
+}
+[10/07/21, 11:02:40:170] info: Creating new Electron notification. 
+[10/07/21, 11:02:40:195] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:02:58:469] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:12:46:342] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:21:02:195] info: Feature Check: requesting features from https://app.slack.com/api/ 
+[10/07/21, 11:21:02:373] info: Feature Check: received experiments 
+{
+  "ok": true,
+  "experiments": []
+}
+[10/07/21, 11:38:29:741] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633624709.000600",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633624709.000600",
+  "channel": "D0267PNUA0J",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D0267PNUA0J&message=1633624709.000600&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"0a3e776d33a36480\",\"parentSpanId\":\"0a3e776d33a36480\"}"
+}
+[10/07/21, 11:38:29:742] info: Creating new Electron notification. 
+[10/07/21, 11:38:29:802] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:43:15:109] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633624994.003300",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633624994.003300",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633624994.003300&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"4c9ba055d06232ab\",\"parentSpanId\":\"4c9ba055d06232ab\"}"
+}
+[10/07/21, 11:43:15:110] info: Creating new Electron notification. 
+[10/07/21, 11:43:15:160] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:43:30:980] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633625010.003700",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633625010.003700",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633625010.003700&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"1996d5296e1613a1\",\"parentSpanId\":\"1996d5296e1613a1\"}"
+}
+[10/07/21, 11:43:30:981] info: Creating new Electron notification. 
+[10/07/21, 11:43:31:633] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:45:28:454] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:45:38:759] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:45:38:773] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633625138.004100",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633625138.004100",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633625138.004100&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"ae6a29b065e64876\",\"parentSpanId\":\"ae6a29b065e64876\"}"
+}
+[10/07/21, 11:45:38:774] info: Creating new Electron notification. 
+[10/07/21, 11:45:39:063] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:46:04:737] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633625164.004500",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633625164.004500",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633625164.004500&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"ba24811c54a06ead\",\"parentSpanId\":\"ba24811c54a06ead\"}"
+}
+[10/07/21, 11:46:04:738] info: Creating new Electron notification. 
+[10/07/21, 11:46:05:174] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:47:32:628] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:53:54:871] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:53:54:879] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:53:54:880] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:53:54:955] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:53:54:956] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:53:55:755] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:53:56:210] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:53:56:211] info: Store: DISPLAY_ADDED 
+[10/07/21, 11:53:59:441] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:53:59:442] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:53:59:452] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:53:59:453] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 11:54:57:873] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633625697.005000",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633625697.005000",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633625697.005000&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"e3f06d2d86b37426\",\"parentSpanId\":\"e3f06d2d86b37426\"}"
+}
+[10/07/21, 11:54:57:873] info: Creating new Electron notification. 
+[10/07/21, 11:54:58:355] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:55:00:808] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:58:24:322] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633625903.005500",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633625903.005500",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633625903.005500&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"58a1d019025d4dc5\",\"parentSpanId\":\"58a1d019025d4dc5\"}"
+}
+[10/07/21, 11:58:24:323] info: Creating new Electron notification. 
+[10/07/21, 11:58:24:655] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:58:29:120] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:58:29:133] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633625908.005700",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633625908.005700",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633625908.005700&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"abf6d5a0fc865a80\",\"parentSpanId\":\"abf6d5a0fc865a80\"}"
+}
+[10/07/21, 11:58:29:133] info: Creating new Electron notification. 
+[10/07/21, 11:58:29:452] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 11:58:34:344] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 12:06:36:908] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633626396.006100",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633626396.006100",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633626396.006100&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"92e6eef3db356456\",\"parentSpanId\":\"92e6eef3db356456\"}"
+}
+[10/07/21, 12:06:36:908] info: Creating new Electron notification. 
+[10/07/21, 12:06:37:136] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 12:11:39:641] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 12:11:40:609] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633626698.002700",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633626698.002700",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633626698002700&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"cf24b1291da373ec\",\"parentSpanId\":\"cf24b1291da373ec\"}"
+}
+[10/07/21, 12:11:40:609] info: Creating new Electron notification. 
+[10/07/21, 12:15:58:329] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633626958.004100",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633626958.004100",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633626958.004100&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"ad847b5b877d6528\",\"parentSpanId\":\"ad847b5b877d6528\"}"
+}
+[10/07/21, 12:15:58:329] info: Creating new Electron notification. 
+[10/07/21, 12:16:04:921] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633626964.004300",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633626964.004300",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633626964.004300&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"ddb2b35e95f43027\",\"parentSpanId\":\"ddb2b35e95f43027\"}"
+}
+[10/07/21, 12:16:04:922] info: Creating new Electron notification. 
+[10/07/21, 12:16:09:266] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633626969.004500",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633626969.004500",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633626969.004500&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"41ac9a356b9cdad2\",\"parentSpanId\":\"41ac9a356b9cdad2\"}"
+}
+[10/07/21, 12:16:09:269] info: Creating new Electron notification. 
+[10/07/21, 12:16:12:974] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633626972.004700",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633626972.004700",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633626972.004700&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"395b586dfe503cb9\",\"parentSpanId\":\"395b586dfe503cb9\"}"
+}
+[10/07/21, 12:16:12:975] info: Creating new Electron notification. 
+[10/07/21, 12:16:28:995] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633626988.005200",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633626988.005200",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633626988.005200&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"da33106f6f9ce1ca\",\"parentSpanId\":\"da33106f6f9ce1ca\"}"
+}
+[10/07/21, 12:16:28:996] info: Creating new Electron notification. 
+[10/07/21, 12:16:38:418] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633626998.005400",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633626998.005400",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633626998.005400&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"ca9222fee3657f31\",\"parentSpanId\":\"ca9222fee3657f31\"}"
+}
+[10/07/21, 12:16:38:418] info: Creating new Electron notification. 
+[10/07/21, 12:16:42:698] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633627002.005600",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633627002.005600",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633627002.005600&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"215ba6a113923948\",\"parentSpanId\":\"215ba6a113923948\"}"
+}
+[10/07/21, 12:16:42:699] info: Creating new Electron notification. 
+[10/07/21, 12:17:10:144] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633627030.006100",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633627030.006100",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633627030.006100&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"4d780fe16b7069e8\",\"parentSpanId\":\"4d780fe16b7069e8\"}"
+}
+[10/07/21, 12:17:10:144] info: Creating new Electron notification. 
+[10/07/21, 12:17:25:326] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633627045.006500",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633627045.006500",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633627045.006500&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"a9ecfe6c57a222f8\",\"parentSpanId\":\"a9ecfe6c57a222f8\"}"
+}
+[10/07/21, 12:17:25:327] info: Creating new Electron notification. 
+[10/07/21, 12:17:53:845] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633627073.006800",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633627073.006800",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633627073.006800&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"24837ce7ef4c211c\",\"parentSpanId\":\"24837ce7ef4c211c\"}"
+}
+[10/07/21, 12:17:53:846] info: Creating new Electron notification. 
+[10/07/21, 12:18:26:759] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633627106.007400",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633627106.007400",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633627106.007400&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"494b63e96f0afa33\",\"parentSpanId\":\"494b63e96f0afa33\"}"
+}
+[10/07/21, 12:18:26:760] info: Creating new Electron notification. 
+[10/07/21, 12:19:16:201] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633627156.008400",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633627156.008400",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633627156.008400&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"d293d4fe722152e9\",\"parentSpanId\":\"d293d4fe722152e9\"}"
+}
+[10/07/21, 12:19:16:201] info: Creating new Electron notification. 
+[10/07/21, 12:21:02:197] info: Feature Check: requesting features from https://app.slack.com/api/ 
+[10/07/21, 12:21:02:260] info: Feature Check: received experiments 
+{
+  "ok": true,
+  "experiments": []
+}
+[10/07/21, 12:23:26:988] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633627406.008800",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633627406.008800",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633627406.008800&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"aa02cbb36725ee99\",\"parentSpanId\":\"aa02cbb36725ee99\"}"
+}
+[10/07/21, 12:23:26:988] info: Creating new Electron notification. 
+[10/07/21, 12:23:36:920] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633627416.008900",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633627416.008900",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633627416.008900&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"a1d38189be09d932\",\"parentSpanId\":\"a1d38189be09d932\"}"
+}
+[10/07/21, 12:23:36:921] info: Creating new Electron notification. 
+[10/07/21, 12:24:10:614] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633627450.009100",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633627450.009100",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633627450.009100&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"1926c43e9e2304e9\",\"parentSpanId\":\"1926c43e9e2304e9\"}"
+}
+[10/07/21, 12:24:10:615] info: Creating new Electron notification. 
+[10/07/21, 12:24:36:408] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633627476.009700",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633627476.009700",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633627476.009700&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"60cfec950b14e375\",\"parentSpanId\":\"60cfec950b14e375\"}"
+}
+[10/07/21, 12:24:36:408] info: Creating new Electron notification. 
+[10/07/21, 12:24:41:423] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633627481.009900",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633627481.009900",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633627481.009900&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"9130824a14e16825\",\"parentSpanId\":\"9130824a14e16825\"}"
+}
+[10/07/21, 12:24:41:423] info: Creating new Electron notification. 
+[10/07/21, 12:41:23:043] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 12:41:51:605] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 12:41:52:842] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 12:42:12:096] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633628532.010600",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633628532.010600",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633628532.010600&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"57d44435e3210a7a\",\"parentSpanId\":\"57d44435e3210a7a\"}"
+}
+[10/07/21, 12:42:12:096] info: Creating new Electron notification. 
+[10/07/21, 12:42:12:166] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 12:42:12:735] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 12:42:15:710] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633628535.007200",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633628535.007200",
+  "channel": "D025UHDAS6L",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025UHDAS6L&message=1633628535.007200&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"533677fd01d0594f\",\"parentSpanId\":\"533677fd01d0594f\"}"
+}
+[10/07/21, 12:42:15:711] info: Creating new Electron notification. 
+[10/07/21, 12:42:15:967] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 12:42:20:873] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633628540.010800",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633628540.010800",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633628540.010800&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"906c04ff422b7dfa\",\"parentSpanId\":\"906c04ff422b7dfa\"}"
+}
+[10/07/21, 12:42:20:874] info: Creating new Electron notification. 
+[10/07/21, 12:42:49:448] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633628569.011600",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633628569.011600",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633628569.011600&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"046d544e91e68c6d\",\"parentSpanId\":\"046d544e91e68c6d\"}"
+}
+[10/07/21, 12:42:49:449] info: Creating new Electron notification. 
+[10/07/21, 12:43:12:433] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633628591.012000",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633628591.012000",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "thread_ts": "1633628577.011900",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633628591012000&team=THXP8885R&thread_ts=1633628577.011900",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"ce57c2d5ba240feb3054fdb1d3b08e29\",\"parentSpanId\":\"7a0816e7f1b1e849\"}"
+}
+[10/07/21, 12:43:12:434] info: Creating new Electron notification. 
+[10/07/21, 12:43:42:607] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633628622.012800",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633628622.012800",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633628622.012800&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"d8e7f59660be2bf8\",\"parentSpanId\":\"d8e7f59660be2bf8\"}"
+}
+[10/07/21, 12:43:42:608] info: Creating new Electron notification. 
+[10/07/21, 12:43:55:934] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633628635.012900",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633628635.012900",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "thread_ts": "1633628577.011900",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633628635012900&team=THXP8885R&thread_ts=1633628577.011900",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"96eb1bbcdfc8b707594eaef9cfe204f6\",\"parentSpanId\":\"f49b69e1d96405a4\"}"
+}
+[10/07/21, 12:43:55:935] info: Creating new Electron notification. 
+[10/07/21, 12:46:16:003] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633628775.013800",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633628775.013800",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633628775.013800&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"01fef92ad7db5b22\",\"parentSpanId\":\"01fef92ad7db5b22\"}"
+}
+[10/07/21, 12:46:16:004] info: Creating new Electron notification. 
+[10/07/21, 12:57:46:675] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 13:02:41:701] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633629761.382700",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633629761.382700",
+  "channel": "CJBC9HUEA",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=CJBC9HUEA&message=1633629761.382700&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"343f739a4c6327cc\",\"parentSpanId\":\"343f739a4c6327cc\"}"
+}
+[10/07/21, 13:02:41:701] info: Creating new Electron notification. 
+[10/07/21, 13:02:41:760] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 13:05:04:074] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 13:17:36:683] info: Store: DISPLAY_REMOVED 
+[10/07/21, 13:17:36:688] info: Store: DISPLAY_REMOVED 
+[10/07/21, 13:17:36:689] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 13:17:36:692] info: Store: DISPLAY_ADDED 
+[10/07/21, 13:17:37:056] info: Store: DISPLAY_METRICS_CHANGED 
+[10/07/21, 13:20:44:797] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633630844.000500",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633630844.000500",
+  "channel": "D02AZ01L41K",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D02AZ01L41K&message=1633630844.000500&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"0ab3bf9cb7f1848d\",\"parentSpanId\":\"0ab3bf9cb7f1848d\"}"
+}
+[10/07/21, 13:20:44:797] info: Creating new Electron notification. 
+[10/07/21, 13:20:44:915] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 13:21:02:199] info: Feature Check: requesting features from https://app.slack.com/api/ 
+[10/07/21, 13:21:02:260] info: Feature Check: received experiments 
+{
+  "ok": true,
+  "experiments": []
+}
+[10/07/21, 13:29:04:158] info: Store: CLICK_NOTIFICATION 
+{
+  "channel": "D02AZ01L41K",
+  "messageId": "1633630844.000500",
+  "notificationId": "THXP8885R_1633630844.000500",
+  "teamId": "THXP8885R",
+  "traceId": "{\"traceId\":\"0ab3bf9cb7f1848d\",\"parentSpanId\":\"0ab3bf9cb7f1848d\"}"
+}
+[10/07/21, 13:29:04:160] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": true
+  },
+  "fromEvent": true
+}
+[10/07/21, 13:29:04:171] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[10/07/21, 13:29:04:369] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:29:04:675] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 13:29:05:167] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 2365,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/07/21, 13:29:05:167] info: Main window moved to display 
+{
+  "id": 0
+}
+[10/07/21, 13:29:05:233] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 2365,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/07/21, 13:29:21:872] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:30:10:069] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:30:10:851] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:30:16:565] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:30:24:518] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[10/07/21, 13:34:40:550] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[10/07/21, 13:34:57:331] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:35:37:176] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:35:39:736] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:35:43:185] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:37:10:780] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[10/07/21, 13:38:11:805] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 13:38:11:809] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633631891.016100",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633631891.016100",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633631891.016100&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"d0d017a9c9bd0cd6\",\"parentSpanId\":\"d0d017a9c9bd0cd6\"}"
+}
+[10/07/21, 13:38:11:809] info: Creating new Electron notification. 
+[10/07/21, 13:38:34:692] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633631914.016300",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633631914.016300",
+  "channel": "C02H0BAP2E8",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C02H0BAP2E8&message=1633631914.016300&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"521a4470b4e13845\",\"parentSpanId\":\"521a4470b4e13845\"}"
+}
+[10/07/21, 13:38:34:692] info: Creating new Electron notification. 
+[10/07/21, 13:38:44:285] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[10/07/21, 13:38:44:554] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/07/21, 13:38:50:588] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:38:59:466] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:39:05:014] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/07/21, 13:39:16:297] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[10/07/21, 13:43:56:666] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 445,
+      "y": 177,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/07/21, 13:43:56:667] info: Main window moved to display 
+{
+  "id": 1
+}
+[10/07/21, 13:43:56:731] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 445,
+      "y": 177,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/07/21, 13:44:07:546] info: Store: SET_SUSPEND_STATUS 
+[10/08/21, 08:22:57:164] info: Store: POWER_RESUMED 
+[10/08/21, 08:22:57:165] info: Store: SET_SUSPEND_STATUS true
+[10/08/21, 08:22:57:365] info: Store: DISPLAY_REMOVED 
+[10/08/21, 08:22:57:367] info: Store: DISPLAY_METRICS_CHANGED 
+[10/08/21, 08:23:16:703] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/08/21, 08:23:25:116] info: Store: SET_SUSPEND_STATUS 
+[10/08/21, 08:25:32:161] info: Store: POWER_RESUMED 
+[10/08/21, 08:25:32:162] info: Store: SET_SUSPEND_STATUS true
+[10/08/21, 08:25:36:385] info: Store: SET_NETWORK_STATUS online
+[10/08/21, 08:26:04:679] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633699565.166500",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633699565.166500",
+  "channel": "C0255LLH7V3",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C0255LLH7V3&message=1633699565.166500&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"f7979edef312bbb7\",\"parentSpanId\":\"f7979edef312bbb7\"}"
+}
+[10/08/21, 08:26:04:680] info: Creating new Electron notification. 
+[10/08/21, 08:29:58:765] info: Store: DISPLAY_ADDED 
+[10/08/21, 08:29:59:752] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 2365,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/08/21, 08:29:59:819] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 2365,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/08/21, 08:33:32:224] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[10/08/21, 08:33:38:196] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/08/21, 08:33:47:150] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[10/08/21, 08:50:54:655] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[10/08/21, 08:51:20:166] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[10/08/21, 08:51:22:638] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[10/08/21, 08:51:22:910] info: Store: OPEN_CONTEXT_MENU 
+{
+  "id": 1,
+  "params": "[REDACTED]"
+}
+[10/08/21, 08:51:36:069] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[10/08/21, 08:51:42:679] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[10/08/21, 08:51:43:008] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/08/21, 08:51:44:034] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/08/21, 08:51:50:786] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[10/08/21, 08:55:00:669] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 445,
+      "y": 177,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/08/21, 08:55:00:670] info: Main window moved to display 
+{
+  "id": 0
+}
+[10/08/21, 08:55:00:735] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 445,
+      "y": 177,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/08/21, 08:58:50:350] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/08/21, 08:58:50:372] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633701530.168000",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633701530.168000",
+  "channel": "C0255LLH7V3",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C0255LLH7V3&message=1633701530.168000&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"5dbd60550e831fb5\",\"parentSpanId\":\"5dbd60550e831fb5\"}"
+}
+[10/08/21, 08:58:50:373] info: Creating new Electron notification. 
+[10/08/21, 09:01:09:114] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/08/21, 09:01:54:105] info: Feature Check: requesting features from https://app.slack.com/api/ 
+[10/08/21, 09:01:54:285] info: Feature Check: received experiments 
+{
+  "ok": true,
+  "experiments": []
+}
+[10/08/21, 09:02:52:955] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/08/21, 09:02:52:987] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1633701772.168600",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1633701772.168600",
+  "channel": "C0255LLH7V3",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=C0255LLH7V3&message=1633701772.168600&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"91706dd0d67bba3f\",\"parentSpanId\":\"91706dd0d67bba3f\"}"
+}
+[10/08/21, 09:02:52:988] info: Creating new Electron notification. 
+[10/08/21, 09:07:09:376] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/08/21, 09:22:55:877] info: Store: SET_SUSPEND_STATUS 
+[10/08/21, 16:26:43:061] info: Store: SET_NETWORK_STATUS offline
+[10/08/21, 16:26:43:080] info: Store: DISPLAY_REMOVED 
+[10/08/21, 16:26:43:141] info: Store: POWER_RESUMED 
+[10/08/21, 16:26:43:142] info: Store: SET_SUSPEND_STATUS true
+[10/08/21, 16:26:53:625] info: Store: SET_NETWORK_STATUS online
+[10/08/21, 16:27:09:856] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/08/21, 16:27:11:120] info: Store: SET_SUSPEND_STATUS 
+[10/12/21, 15:21:56:079] info: Store: SET_NETWORK_STATUS offline
+[10/12/21, 15:21:56:186] info: Store: POWER_RESUMED 
+[10/12/21, 15:21:56:187] info: Store: SET_SUSPEND_STATUS true
+[10/12/21, 15:22:17:128] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/12/21, 15:46:34:101] info: Store: SET_SUSPEND_STATUS 
+[10/12/21, 16:04:33:139] info: Store: POWER_RESUMED 
+[10/12/21, 16:04:33:140] info: Store: SET_SUSPEND_STATUS true
+[10/12/21, 16:04:33:164] info: Store: DISPLAY_ADDED 
+[10/12/21, 16:04:34:148] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 2365,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/12/21, 16:04:34:149] info: Main window moved to display 
+{
+  "id": 1
+}
+[10/12/21, 16:04:34:217] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 2365,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/12/21, 16:04:49:488] info: Attempted to close the window, hiding due to run from tray 
+[10/12/21, 16:04:49:488] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": false
+  },
+  "fromEvent": true
+}
+[10/12/21, 16:04:50:506] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 2365,
+      "y": 126,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/12/21, 16:04:50:572] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 2365,
+      "y": 126,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/12/21, 16:18:16:642] info: Feature Check: requesting features from https://app.slack.com/api/ 
+[10/12/21, 16:18:16:851] info: Feature Check: received experiments 
+{
+  "ok": true,
+  "experiments": []
+}
+[10/12/21, 16:50:52:712] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1634075452.006100",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1634075452.006100",
+  "channel": "D02AZ01L41K",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D02AZ01L41K&message=1634075452.006100&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"d149e2815b1eda84\",\"parentSpanId\":\"d149e2815b1eda84\"}"
+}
+[10/12/21, 16:50:52:712] info: Creating new Electron notification. 
+[10/12/21, 16:50:53:087] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/13/21, 19:41:13:398] info: 
+╔════════════════════════════════════════════════════════════════╗
+║      Slack 4.20.0, linux (Store) 5.11.0-37-generic on x64      ║
+╚════════════════════════════════════════════════════════════════╝ 
+[10/13/21, 19:41:13:399] info: Configured logger via 
+{
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 1
+}
+[10/13/21, 19:41:13:535] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "America/Chicago",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.20.0",
+  "PACKAGE_MANIFEST.commit": "18f3d12",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[10/13/21, 19:41:13:766] info: Starting Sentry 
+[10/13/21, 19:41:13:767] info: getInstanceUuid:: Read existing uuid from persisted location 
+{
+  "uuid": "c7796743-4990-5699-aad7-40d28ce22c89"
+}
+[10/13/21, 19:41:13:785] info: Copying current Cookies into StaleCookies-13 
+[10/13/21, 19:41:16:243] info: Store: persist/PERSIST 
+[10/13/21, 19:41:16:245] info: Store: UPDATE_SETTINGS 
+{
+  "locale": "en-US"
+}
+[10/13/21, 19:41:16:249] info: Store: persist/REHYDRATE 
+{
+  "appTeams": "[DEPRECATED]",
+  "bookmarks": "[REDACTED]",
+  "dialog": "[REDACTED]",
+  "downloads": "No downloads",
+  "enterprise": "No Enterprise orgs",
+  "settings": {
+    "isSignedIntoSlackOrg": false,
+    "locale": "en-US",
+    "notificationMethod": null,
+    "releaseChannelOverride": null
+  },
+  "teams": "[DEPRECATED]",
+  "webapp": "[REDACTED]",
+  "workspaces": "1 workspaces: THXP8885R",
+  "workspacesMeta": "Selected workspace: THXP8885R",
+  "_persist": "Persistence version: 1"
+}
+[10/13/21, 19:41:16:250] info: Store: RECORD_PERFORMANCE_TIMING 
+{
+  "phase": 0,
+  "interval": 10
+}
+[10/13/21, 19:41:16:250] info: Store: INITIALIZE 
+{
+  "resourcePath": "/snap/slack/46/usr/lib/slack/resources/app.asar",
+  "tsaToken": "[REDACTED]",
+  "bootFragments": []
+}
+[10/13/21, 19:41:16:260] info: Store: SET_SESSION_MODE 
+[10/13/21, 19:41:16:261] info: Feature Check: requesting features from https://app.slack.com/api/ 
+[10/13/21, 19:41:16:276] error: Failed to load calls-desktop-interop.WindowBorderPanel 
+{
+  "error": {
+    "stack": "Error: Module did not self-register: '/snap/slack/46/usr/lib/slack/resources/app.asar.unpacked/node_modules/@tinyspeck/calls-desktop-interop/build/Release/CallsDesktopInterop.node'.\n    at process.func [as dlopen] (electron/js2c/asar_bundle.js:5:1846)\n    at Object.Module._extensions..node (internal/modules/cjs/loader.js:1143:18)\n    at Object.func [as .node] (electron/js2c/asar_bundle.js:5:2073)\n    at Module.load (internal/modules/cjs/loader.js:940:32)\n    at Module._load (internal/modules/cjs/loader.js:781:14)\n    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)\n    at Module.require (internal/modules/cjs/loader.js:964:19)\n    at require (internal/modules/cjs/helpers.js:88:18)\n    at bindings (/snap/slack/46/usr/lib/slack/resources/app.asar/node_modules/bindings/bindings.js:112:48)\n    at Object.<anonymous> (/snap/slack/46/usr/lib/slack/resources/app.asar/node_modules/@tinyspeck/calls-desktop-interop/lib/index.js:1:34)",
+    "message": "Module did not self-register: '/snap/slack/46/usr/lib/slack/resources/app.asar.unpacked/node_modules/@tinyspeck/calls-desktop-interop/build/Release/CallsDesktopInterop.node'."
+  },
+  "stackFrameString": "[{\"columnNumber\":1846,\"lineNumber\":5,\"fileName\":\"electron/js2c/asar_bundle.js\",\"functionName\":\"process.func [as dlopen]\",\"source\":\"    at process.func [as dlopen] (electron/js2c/asar_bundle.js:5:1846)\"},{\"columnNumber\":18,\"lineNumber\":1143,\"fileName\":\"internal/modules/cjs/loader.js\",\"functionName\":\"Object.Module._extensions..node\",\"source\":\"    at Object.Module._extensions..node (internal/modules/cjs/loader.js:1143:18)\"},{\"columnNumber\":2073,\"lineNumber\":5,\"fileName\":\"electron/js2c/asar_bundle.js\",\"functionName\":\"Object.func [as .node]\",\"source\":\"    at Object.func [as .node] (electron/js2c/asar_bundle.js:5:2073)\"},{\"columnNumber\":32,\"lineNumber\":940,\"fileName\":\"internal/modules/cjs/loader.js\",\"functionName\":\"Module.load\",\"source\":\"    at Module.load (internal/modules/cjs/loader.js:940:32)\"},{\"columnNumber\":14,\"lineNumber\":781,\"fileName\":\"internal/modules/cjs/loader.js\",\"functionName\":\"Module._load\",\"source\":\"    at Module._load (internal/modules/cjs/loader.js:781:14)\"},{\"columnNumber\":12913,\"lineNumber\":5,\"fileName\":\"electron/js2c/asar_bundle.js\",\"functionName\":\"Function.f._load\",\"source\":\"    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)\"},{\"columnNumber\":19,\"lineNumber\":964,\"fileName\":\"internal/modules/cjs/loader.js\",\"functionName\":\"Module.require\",\"source\":\"    at Module.require (internal/modules/cjs/loader.js:964:19)\"},{\"columnNumber\":18,\"lineNumber\":88,\"fileName\":\"internal/modules/cjs/helpers.js\",\"functionName\":\"require\",\"source\":\"    at require (internal/modules/cjs/helpers.js:88:18)\"},{\"columnNumber\":48,\"lineNumber\":112,\"fileName\":\"/snap/slack/46/usr/lib/slack/resources/app.asar/node_modules/bindings/bindings.js\",\"functionName\":\"bindings\",\"source\":\"    at bindings (/snap/slack/46/usr/lib/slack/resources/app.asar/node_modules/bindings/bindings.js:112:48)\"},{\"columnNumber\":34,\"lineNumber\":1,\"fileName\":\"/snap/slack/46/usr/lib/slack/resources/app.asar/node_modules/@tinyspeck/calls-desktop-interop/lib/index.js\",\"functionName\":\"Object.<anonymous>\",\"source\":\"    at Object.<anonymous> (/snap/slack/46/usr/lib/slack/resources/app.asar/node_modules/@tinyspeck/calls-desktop-interop/lib/index.js:1:34)\"}]"
+}
+[10/13/21, 19:41:16:284] warn: Failed to install protocol handler for slack:// links 
+[10/13/21, 19:41:16:303] info: getLinuxDistro: osInfo 
+{
+  "stdoutValue": "Ubuntu\nUbuntu 21.04\n21.04\nhirsute\n",
+  "osInfo": [
+    "Ubuntu 21.04",
+    "21.04",
+    "hirsute",
+    ""
+  ]
+}
+[10/13/21, 19:41:16:304] info: Store: READY 
+{
+  "resourcePath": "/snap/slack/46/usr/lib/slack/resources/app.asar",
+  "tsaToken": "[REDACTED]",
+  "bootFragments": [],
+  "appVersion": "4.20.0",
+  "is64Bit": true,
+  "isGpuCompositionAvailable": true,
+  "isTitleBarHidden": false,
+  "platform": "linux",
+  "platformVersion": {
+    "major": 5,
+    "minor": 11,
+    "build": 0
+  },
+  "releaseChannel": "prod",
+  "developerMenuOverride": false,
+  "uuid": "c7796743-4990-5699-aad7-40d28ce22c89",
+  "applicationProcessSessionId": "Yzc3OTY3NDMtNDk5MC01Njk5LWFhZDctNDBkMjhjZTIyYzg5XzE2MzQxNzIwNzYyNTE=",
+  "distribution": "Snap",
+  "clientFeatureMode": 1000,
+  "linux": {
+    "os": "Ubuntu 21.04",
+    "name": "21.04",
+    "release": "hirsute",
+    "codename": "",
+    "desktopEnvironment": "Unity"
+  }
+}
+[10/13/21, 19:41:16:305] info: initializeApplicationEpic: trying to set ntlm credential domain for session 
+{
+  "sessionId": "PROD_DEFAULT_SESSION"
+}
+[10/13/21, 19:41:16:306] info: initializeApplicationEpic: Welcome to Slack 4.20.0 x64 
+[10/13/21, 19:41:16:308] info: AutoLoginEpic: Checking for autologin. 
+[10/13/21, 19:41:16:309] info: getIsUpdateSupported: Updates are not supported 
+{
+  "version": "4.20.0",
+  "reasons": [
+    "using Linux"
+  ],
+  "distribution": "Snap",
+  "executable": "/snap/slack/46/usr/lib/slack"
+}
+[10/13/21, 19:41:16:680] info: Store: SET_ACCESSIBILITY_SUPPORT_ENABLED 
+[10/13/21, 19:41:16:681] info: Store: CREATE_WINDOW 
+{
+  "type": "main"
+}
+[10/13/21, 19:41:16:682] info: Store: UPDATE_SETTINGS 
+{
+  "isSignedIntoSlackOrg": false
+}
+[10/13/21, 19:41:16:686] info: initialSettingsPayload: trying to invalidate settings 
+{
+  "payload": {
+    "useHwAcceleration": true
+  }
+}
+[10/13/21, 19:41:16:687] info: Store: UPDATE_SETTINGS 
+{
+  "useHwAcceleration": true
+}
+[10/13/21, 19:41:16:688] info: Store: SET_UPDATE_SUPPORTED 
+[10/13/21, 19:41:16:707] info: System configuration information 
+{
+  "info": {
+    "total_memory_in_gb": 15,
+    "gpuFeatures": {
+      "2d_canvas": "unavailable_software",
+      "gpu_compositing": "disabled_software",
+      "multiple_raster_threads": "enabled_on",
+      "oop_rasterization": "disabled_off",
+      "opengl": "disabled_off",
+      "rasterization": "disabled_software",
+      "skia_renderer": "enabled_on",
+      "video_decode": "disabled_software",
+      "vulkan": "disabled_off",
+      "webgl": "unavailable_software",
+      "webgl2": "unavailable_software"
+    },
+    "cpu_model": "11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz",
+    "cpu_logical_core": 8,
+    "cpu_clock_speed": 2800,
+    "gpuDevice": [
+      {
+        "active": true,
+        "cudaComputeCapabilityMajor": 0,
+        "deviceId": 39497,
+        "vendorId": 32902
+      }
+    ],
+    "machine_model_name": "unknown",
+    "machine_model_version": "unknown"
+  }
+}
+[10/13/21, 19:41:16:713] info: Store: TOKEN_FILE_PROCESSED 
+[10/13/21, 19:41:16:714] info: AutoLoginEpic: Processing token file for autologin. 
+[10/13/21, 19:41:16:715] info: AutoLoginEpic: Completed autologin processing — successfully logged in 0 workspaces. 
+[10/13/21, 19:41:16:715] info: AutoLoginEpic: Setting default sign-in team to null 
+[10/13/21, 19:41:16:715] info: Store: AUTOLOGIN_TEAMS_COMPLETE 
+[10/13/21, 19:41:16:716] info: Store: UPDATE_SETTINGS 
+{
+  "defaultSigninTeam": null
+}
+[10/13/21, 19:41:16:719] error: Cannot override webPreferences key(s): webviewTag 
+[10/13/21, 19:41:16:819] info: MainWindowEpics: Setting main window ID 
+{
+  "id": 1
+}
+[10/13/21, 19:41:16:821] info: Store: WINDOW_CREATED 
+{
+  "type": "main",
+  "id": 1,
+  "frame": {
+    "isHtmlFullScreen": false,
+    "isFullScreen": false,
+    "isMinimized": false,
+    "isMaximized": false,
+    "isVisible": false,
+    "isFocused": false,
+    "bounds": {
+      "x": 2365,
+      "y": 126,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/13/21, 19:41:16:822] info: validateBoundsForDisplay: Bounds {"x":2365,"y":126,"width":1024,"height":768} not contained in Display with workArea {"x":72,"y":27,"width":1848,"height":1173} 
+[10/13/21, 19:41:16:825] info: Watching for keyboard layout changes 
+[10/13/21, 19:41:16:840] info: Store: RECORD_PERFORMANCE_TIMING 
+{
+  "phase": 1,
+  "interval": 573
+}
+[10/13/21, 19:41:16:841] info: registerLifeCycleEvents: Registering webContents:1 
+[10/13/21, 19:41:16:842] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "unloaded"
+}
+[10/13/21, 19:41:17:789] info: Feature Check: received experiments 
+{
+  "ok": true,
+  "experiments": []
+}
+[10/13/21, 19:41:17:843] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 896,
+      "y": 126,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:41:18:254] info: registerLifeCycleEvents: webContents:1 from 'unloaded' to 'loaded' took 1412 ms 
+[10/13/21, 19:41:18:255] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "loaded"
+}
+[10/13/21, 19:41:18:256] info: initializeMainWindowEpic: Showing main window 
+{
+  "maximized": false,
+  "shouldHide": false,
+  "fullScreen": false
+}
+[10/13/21, 19:41:18:257] info: Store: RECORD_PERFORMANCE_TIMING 
+{
+  "phase": 2,
+  "interval": 1433
+}
+[10/13/21, 19:41:18:258] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": true
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:41:18:258] info: Store: MAIN_WINDOW_SHOWN 
+[10/13/21, 19:41:18:262] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 896,
+      "y": 126,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/13/21, 19:41:18:263] info: Store: CLEAR_NOTIFICATIONS 
+[10/13/21, 19:41:18:269] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:41:18:293] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:41:18:502] info: waitAuthCookieChange: waiting for auth change for session 
+{
+  "sessionId": "PROD_DEFAULT_SESSION"
+}
+[10/13/21, 19:41:18:946] info: Store: UPDATE_SETTINGS 
+{
+  "userTheme": "light"
+}
+[10/13/21, 19:41:18:948] info: Store: UPDATE_SETTINGS 
+{
+  "systemThemeSyncEnabled": false
+}
+[10/13/21, 19:41:19:269] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 896,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:41:19:337] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 896,
+      "y": 163,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/13/21, 19:41:19:930] info: registerLifeCycleEvents: webContents:1 is type 'app' 
+[10/13/21, 19:41:19:930] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+}
+[10/13/21, 19:41:19:937] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isVisible": true,
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:41:20:000] info: Store: SYNC (Empty)
+[10/13/21, 19:41:20:046] info: Store: SELECTION_CHANGED THXP8885R
+[10/13/21, 19:41:20:052] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [theme,notificationPrefs,connectivityPrefs,featureFlags,unreads,locale,version]
+[10/13/21, 19:41:20:058] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [featureFlags,userId]
+[10/13/21, 19:41:20:062] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [theme,notificationPrefs,unreads]
+[10/13/21, 19:41:20:064] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [connectivityPrefs]
+[10/13/21, 19:41:20:161] info: Store: SYNC Synced 1 workspaces with IDs [THXP8885R]
+[10/13/21, 19:41:20:171] info: Store: SELECTION_CHANGED THXP8885R
+[10/13/21, 19:41:20:172] info: registerLifeCycleEvents: webContents:1 from 'loaded' to 'webapp-loaded' took 242 ms 
+[10/13/21, 19:41:20:172] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "webapp-loaded"
+}
+[10/13/21, 19:41:20:176] info: Store: RECORD_PERFORMANCE_TIMING 
+{
+  "phase": 3,
+  "interval": 1920
+}
+[10/13/21, 19:41:20:458] info: Store: UPDATE_SETTINGS 
+{
+  "forceHiddenInsetTitleBar": false
+}
+[10/13/21, 19:41:20:459] info: Store: UPDATE_SETTINGS 
+{
+  "trafficLightPosition": {
+    "x": 14,
+    "y": 22
+  }
+}
+[10/13/21, 19:41:20:460] info: Store: UPDATE_SETTINGS 
+{
+  "isIAEnabled": true
+}
+[10/13/21, 19:41:20:463] info: Store: EXTEND_MENU global: menucategory-file,menucategory-view,menucategory-jump-to
+[10/13/21, 19:41:20:472] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/13/21, 19:41:21:111] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/13/21, 19:41:21:313] info: Store: SET_NETWORK_STATUS online
+[10/13/21, 19:41:21:548] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "bounds": {
+      "x": 601,
+      "y": 158,
+      "width": 1024,
+      "height": 768
+    },
+    "isMaximized": false
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:41:21:616] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 601,
+      "y": 158,
+      "width": 1024,
+      "height": 768
+    }
+  }
+}
+[10/13/21, 19:41:25:162] info: Store: persist/FLUSH 
+[10/13/21, 19:41:25:976] info: Store: EXTEND_MENU THXP8885R: menucategory-file,menucategory-edit,menucategory-history,menucategory-help
+[10/13/21, 19:41:32:974] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:41:39:845] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:41:43:177] info: actionForExternalWindowURL: Opening external window 
+[10/13/21, 19:41:43:181] info: openExternal: Successfully opened external URL 
+{
+  "protocol": "https:",
+  "trigger": 0
+}
+[10/13/21, 19:41:43:641] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:42:04:217] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:42:05:962] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[10/13/21, 19:42:16:308] info: Store: UPDATE_SETTINGS 
+{
+  "lastClogForProxyInfo": 1634172136308
+}
+[10/13/21, 19:45:21:982] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]
+[10/13/21, 19:45:21:989] info: Store: NEW_NOTIFICATION 
+{
+  "id": "THXP8885R_1634172321.000800",
+  "title": "[REDACTED]",
+  "subtitle": "[REDACTED]",
+  "content": "[REDACTED]",
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "teamId": "THXP8885R",
+  "userId": "U025BJ08ZUZ",
+  "msg": "1634172321.000800",
+  "channel": "D025MAQF0Q5",
+  "channelName": "[REDACTED]",
+  "launchUri": "slack://channel?id=D025MAQF0Q5&message=1634172321.000800&team=THXP8885R",
+  "silent": true,
+  "hasReply": true,
+  "trace_id": "{\"traceId\":\"94aebb0a78a6ea0d\",\"parentSpanId\":\"94aebb0a78a6ea0d\"}"
+}
+[10/13/21, 19:45:21:991] info: Creating new Electron notification. 
+[10/13/21, 19:49:06:432] info: Store: REDUX_UPDATE_FROM_WEBAPP (THXP8885R) Changed keys [unreads]

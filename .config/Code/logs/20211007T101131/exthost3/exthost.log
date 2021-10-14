@@ -1,0 +1,182 @@
+[2021-10-07 10:11:49.512] [exthost] [info] extension host started
+[2021-10-07 10:11:49.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-10-07 10:11:49.532] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-07 10:11:49.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-10-07 10:11:49.537] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-07 10:11:49.538] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-07 10:11:49.538] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/git/dist/main
+[2021-10-07 10:11:49.581] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-07 10:11:49.582] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-10-07 10:11:49.587] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-10-07 10:11:49.587] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-07 10:11:49.652] [exthost] [info] eager extensions activated
+[2021-10-07 10:11:49.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-10-07 10:11:49.662] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-07 10:11:49.666] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-10-07 10:11:49.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-07 10:11:49.669] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-10-07 10:11:49.669] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-07 10:12:33.723] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-10-07 10:12:33.723] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-10-07 10:12:33.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-10-07 10:12:33.728] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2021-10-07 10:12:33.921] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4211
+[2021-10-07 10:12:33.937] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"api"}
+[2021-10-07 10:12:33.937] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/markdown-math/dist/extension
+[2021-10-07 10:12:40.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-10-07 10:12:40.632] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-07 10:13:19.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-10-07 10:13:19.848] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-10-07 10:25:52.614] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-10-07 10:25:52.616] [exthost] [error] Error: Unable to consume quoted string at char 1139
+	at r.error (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at o (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21278)
+	at f (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21705)
+	at u (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at h (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at S (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at j (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:192785)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:178533)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:177404)
+	at $.provideCompletionItems (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:176938)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:197582
+	at xe._withAdapter (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:187656)
+	at xe.$provideCompletionItems (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:197558)
+	at i._doInvokeHandler (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13543)
+	at i._invokeHandler (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13227)
+	at i._receiveRequest (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:11838)
+	at i._receiveOneMessage (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10567)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8663
+	at c.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30187
+	at c.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+	at r._receiveMessage (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21051)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:17929
+	at c.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at v.acceptChunk (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13142)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12490
+	at Socket.w (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13350)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-07 10:25:52.968] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-10-07 10:25:52.969] [exthost] [error] Error: Unable to consume quoted string at char 1140
+	at r.error (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at o (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21278)
+	at f (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21705)
+	at u (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at h (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at S (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at j (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:192785)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:178533)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:177404)
+	at $.provideCompletionItems (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:176938)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:197582
+	at xe._withAdapter (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:187656)
+	at xe.$provideCompletionItems (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:197558)
+	at i._doInvokeHandler (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13543)
+	at i._invokeHandler (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13227)
+	at i._receiveRequest (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:11838)
+	at i._receiveOneMessage (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10567)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8663
+	at c.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30187
+	at c.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+	at r._receiveMessage (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21051)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:17929
+	at c.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at v.acceptChunk (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13142)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12490
+	at Socket.w (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13350)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-07 10:25:54.943] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-10-07 10:25:54.943] [exthost] [error] Error: Unable to consume quoted string at char 1141
+	at r.error (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at o (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21278)
+	at f (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21705)
+	at u (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at h (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at S (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at j (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:192785)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:178533)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:177404)
+	at $.provideCompletionItems (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:176938)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:197582
+	at xe._withAdapter (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:187656)
+	at xe.$provideCompletionItems (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:197558)
+	at i._doInvokeHandler (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13543)
+	at i._invokeHandler (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13227)
+	at i._receiveRequest (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:11838)
+	at i._receiveOneMessage (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10567)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8663
+	at c.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30187
+	at c.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15781)
+	at r._receiveMessage (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21051)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:17929
+	at c.fire (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at v.acceptChunk (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13142)
+	at /snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12490
+	at Socket.w (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13350)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-07 10:27:16.066] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-10-07 10:27:16.067] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-10-07 10:28:35.649] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4514
+[2021-10-07 10:28:36.378] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-10-07 10:28:36.378] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/debug-server-ready/dist/extension
+[2021-10-07 10:28:36.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-10-07 10:28:36.433] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-07 10:28:36.435] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-10-07 10:28:36.435] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-08 08:53:15.532] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-08 08:53:16.343] [exthost] [info] extension host started
+[2021-10-08 08:53:16.343] [exthost] [info] Skipping acquiring lock for /home/cheyenne/.config/Code/User/workspaceStorage/32d3c87781cf65a81d3106ed0690e0a5.
+[2021-10-08 08:53:16.368] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-10-08 08:53:16.368] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-08 08:53:16.374] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-10-08 08:53:16.374] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-08 08:53:16.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-08 08:53:16.375] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/git/dist/main
+[2021-10-08 08:53:16.441] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-08 08:53:16.441] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-10-08 08:53:16.465] [exthost] [info] eager extensions activated
+[2021-10-08 08:53:16.473] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-10-08 08:53:16.473] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-08 08:53:16.531] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-10-08 08:53:16.531] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-08 08:53:16.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-10-08 08:53:16.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-08 08:53:16.540] [exthost] [info] exiting with code 0
+[2021-10-08 08:53:16.553] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-10-08 08:53:16.553] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-08 08:53:29.711] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-10-08 08:53:29.711] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-10-08 08:53:34.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-10-08 08:53:34.588] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/debug-server-ready/dist/extension
+[2021-10-12 15:26:14.432] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-12 15:26:15.449] [exthost] [info] exiting with code 0

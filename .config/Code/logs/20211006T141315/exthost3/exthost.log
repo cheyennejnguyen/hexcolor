@@ -30,3 +30,5 @@
 [2021-10-06 15:25:14.277] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
 [2021-10-06 15:25:14.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
 [2021-10-06 15:25:14.280] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-07 10:11:22.879] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-07 10:11:23.892] [exthost] [info] exiting with code 0

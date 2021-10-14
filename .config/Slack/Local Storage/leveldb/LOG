@@ -1,24 +1,6 @@
-2021/09/28-15:37:40.373 a45 Reusing MANIFEST /home/cheyenne/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2021/09/28-15:37:40.374 a45 Recovering log #7
-2021/09/28-15:37:40.374 a45 Reusing old log /home/cheyenne/.config/Slack/Local Storage/leveldb/000007.log 
-2021/10/06-09:42:39.099 270c Level-0 table #11: started
-2021/10/06-09:42:39.103 270c Level-0 table #11: 13406 bytes OK
-2021/10/06-09:42:39.105 270c Delete type=0 #7
-2021/10/06-11:43:38.630 39c4 Level-0 table #13: started
-2021/10/06-11:43:38.634 39c4 Level-0 table #13: 15529 bytes OK
-2021/10/06-11:43:38.637 39c4 Delete type=0 #10
-2021/10/06-14:10:38.615 7dcc Level-0 table #15: started
-2021/10/06-14:10:38.618 7dcc Level-0 table #15: 14707 bytes OK
-2021/10/06-14:10:38.621 7dcc Delete type=0 #12
-2021/10/06-15:37:38.625 8e79 Level-0 table #17: started
-2021/10/06-15:37:38.632 8e79 Level-0 table #17: 15599 bytes OK
-2021/10/06-15:37:38.634 8e79 Delete type=0 #14
-2021/10/06-15:37:38.634 8e79 Compacting 4@0 + 1@1 files
-2021/10/06-15:37:38.637 8e79 Generated table #18@0: 7 keys, 4313 bytes
-2021/10/06-15:37:38.637 8e79 Compacted 4@0 + 1@1 files => 4313 bytes
-2021/10/06-15:37:38.639 8e79 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/10/06-15:37:38.639 8e79 Delete type=2 #15
-2021/10/06-15:37:38.639 8e79 Delete type=2 #17
-2021/10/06-15:37:38.639 8e79 Delete type=2 #11
-2021/10/06-15:37:38.639 8e79 Delete type=2 #13
-2021/10/06-15:37:38.639 8e79 Delete type=2 #8
+2021/10/13-19:41:15.540 c9d Reusing MANIFEST /home/cheyenne/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/10/13-19:41:15.540 c9d Recovering log #21
+2021/10/13-19:41:15.541 c9d Reusing old log /home/cheyenne/.config/Slack/Local Storage/leveldb/000021.log 
+2021/10/13-19:42:18.199 d27 Level-0 table #25: started
+2021/10/13-19:42:18.203 d27 Level-0 table #25: 16405 bytes OK
+2021/10/13-19:42:18.205 d27 Delete type=0 #21

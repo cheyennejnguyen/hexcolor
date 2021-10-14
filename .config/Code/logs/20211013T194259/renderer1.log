@@ -1,0 +1,6 @@
+[2021-10-13 19:43:01.097] [renderer1] [info] Starting extension host with pid 4874.
+[2021-10-13 19:43:01.593] [renderer1] [error] [Extension Host] (node:4874) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-10-13 19:52:18.456] [renderer1] [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/snap/code/76/usr/share/code/resources/app/out/bootstrap.js:1:370)
+	at process.emit (events.js:315:20)

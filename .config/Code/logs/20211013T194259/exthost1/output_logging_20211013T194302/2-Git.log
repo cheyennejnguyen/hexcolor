@@ -1,0 +1,60 @@
+Validating found git in: git
+Using git 2.30.2 from git
+> git rev-parse --git-dir
+Open repository: /home/cheyenne/Projects/checker
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :checker.html
+> git ls-files --stage -- /home/cheyenne/Projects/checker/checker.html
+> git cat-file -s 1e01b044501da716a30dcabad79a064f7f9b3583
+> git check-ignore -v -z --stdin
+> git show --textconv :hex.js
+> git ls-files --stage -- /home/cheyenne/Projects/checker/hex.js
+> git cat-file -s d4f34069046eca5001d9d0ac43cbaefdebe97666
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :checker.html
+> git ls-files --stage -- /home/cheyenne/Projects/checker/checker.html
+> git cat-file -s 1e01b044501da716a30dcabad79a064f7f9b3583
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :hex.js
+> git ls-files --stage -- /home/cheyenne/Projects/checker/hex.js
+> git cat-file -s d4f34069046eca5001d9d0ac43cbaefdebe97666
+> git show --textconv :hex.js
+> git ls-files --stage -- /home/cheyenne/Projects/checker/hex.js
+> git cat-file -s d4f34069046eca5001d9d0ac43cbaefdebe97666
+> git show --textconv :checker.html
+> git ls-files --stage -- /home/cheyenne/Projects/checker/checker.html
+> git cat-file -s 1e01b044501da716a30dcabad79a064f7f9b3583
+> git show --textconv :hex.js
+> git ls-files --stage -- /home/cheyenne/Projects/checker/hex.js
+> git cat-file -s d4f34069046eca5001d9d0ac43cbaefdebe97666
+> git show --textconv :hex.js
+> git ls-files --stage -- /home/cheyenne/Projects/checker/hex.js
+> git cat-file -s d4f34069046eca5001d9d0ac43cbaefdebe97666
+> git show --textconv :hex.js
+> git ls-files --stage -- /home/cheyenne/Projects/checker/hex.js
+> git cat-file -s d4f34069046eca5001d9d0ac43cbaefdebe97666
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :checker.html
+> git ls-files --stage -- /home/cheyenne/Projects/checker/checker.html
+> git cat-file -s 1e01b044501da716a30dcabad79a064f7f9b3583

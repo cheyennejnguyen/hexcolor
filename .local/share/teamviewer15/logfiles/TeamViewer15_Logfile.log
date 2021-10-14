@@ -259,3 +259,358 @@ Proxy-Settings:     Type=0 IP= User=
 2021/10/06 15:40:31.131  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
 2021/10/06 15:40:31.132  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
 2021/10/06 15:40:31.136  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=87, c=174)
+2021/10/06 15:44:33.194  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/06 15:44:33.194  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2021/10/06 15:44:33.194  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/06 15:44:33.217  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/06 15:44:33.217  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND3 1920x1080@60Hz [1920, 0, 3840, 1080] - 1
+2021/10/06 15:44:33.217  8393 139639275793216 GW2   Virtual Desktop [0, 0, 3840, 1200]
+2021/10/06 15:56:39.280  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 15:56:39.281  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 15:56:39.281  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=44, c=88)
+2021/10/06 16:20:03.149  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/06 16:20:03.149  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND3 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/06 16:20:03.149  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/06 16:20:03.153  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND3 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/06 16:20:03.154  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/06 16:20:03.155  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/06 16:20:04.411  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND3 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/06 16:20:04.411  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/06 16:20:04.411  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2021/10/06 16:20:04.411  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/06 16:20:04.451  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/06 16:20:04.451  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND3 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/06 16:20:04.451  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2021/10/06 16:20:04.451  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/06 16:20:12.914  8393 139639203644992 GW2   Account::UpdateState: KA = 0, active = 1
+2021/10/06 16:20:12.914  8393 139639212037696 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/06 16:20:12.914  8393 139639212037696 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2021/10/06 16:20:12.914  8393 139639212037696 GW2   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2021/10/06 16:20:12.915  8393 139639212037696 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 0b6fe10f-6fbd-4df2-998d-427593b21261)
+2021/10/06 16:20:12.921  8393 139639195252288 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=0 showDynPwd=0
+2021/10/06 16:20:12.939  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND4 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/06 16:20:12.940  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND3 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/06 16:20:12.940  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/06 16:20:12.940  8393 139639275793216 GW2   Account::SetLoginState: new state: 0
+2021/10/06 16:20:12.940  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2021/10/06 16:20:12.940  8393 139639203644992 GW2   ChatManager::ClearNonAccountChat
+2021/10/06 16:20:13.095  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/06 16:20:13.475  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/06 16:20:13.484  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/06 16:20:13.493  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/07 10:10:41.108  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND4 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 10:10:41.108  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/07 10:10:44.687  8393 139639203644992 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/07 10:10:48.750  8393 139638966572608 GW2   IpcRouterClock: received router time: 20211007T151049.045780
+2021/10/07 10:10:49.683  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/07 10:10:49.786  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/07 10:10:50.285  8393 139639195252288 GW2   Account::UpdateState: KA = 1, active = 1
+2021/10/07 10:10:50.285  8393 139639203644992 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2021/10/07 10:10:50.285  8393 139639275793216 GW2   Account::SetLoginState: new state: 2
+2021/10/07 10:10:50.285  8393 139639203644992 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2021/10/07 10:10:50.285  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2021/10/07 10:10:50.285  8393 139639203644992 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 50e335b7-1718-4d2d-bff2-05dc63b256be)
+2021/10/07 10:10:50.285  8393 139639203644992 GW2   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2021/10/07 10:10:50.755  8393 139639220430400 GW2!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/10/07 10:10:50.756  8393 139639220430400 GW2!  InterProcessGUI::ProcessCommandForCommandClass: Command 38 for class 3 not handled !
+2021/10/07 10:11:05.935  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND4 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 10:11:05.935  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [1920, 0, 3840, 1080] - 1
+2021/10/07 10:11:05.935  8393 139639275793216 GW2   Virtual Desktop [0, 0, 3840, 1200]
+2021/10/07 10:12:10.677  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/07 10:12:10.678  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/07 10:12:10.683  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=286, c=572)
+2021/10/07 10:12:32.332  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/07 10:12:32.334  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/07 10:12:32.334  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=293, c=586)
+2021/10/07 10:13:59.642  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/07 10:14:13.568  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/07 10:14:13.569  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/07 10:14:13.570  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=80, c=160)
+2021/10/07 10:50:05.016  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/07 10:50:05.026  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/07 10:50:05.422  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/07 10:50:05.422  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/07 10:56:23.304  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/07 10:56:23.408  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/07 11:02:10.349  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/07 11:02:10.358  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/07 11:02:10.746  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/07 11:02:10.746  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/07 11:12:37.120  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/07 11:12:37.211  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/07 11:53:54.870  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND4 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 11:53:54.870  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/07 11:53:54.870  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/07 11:53:54.877  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/07 11:53:54.877  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND4 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 11:53:54.877  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/07 11:53:55.725  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/07 11:53:55.725  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND4 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 11:53:55.725  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2021/10/07 11:53:55.725  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/07 11:53:55.746  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND4 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 11:53:55.747  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/07 11:53:55.747  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2021/10/07 11:53:55.747  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/07 11:53:55.752  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND4 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 11:53:55.752  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [1920, 0, 3840, 1080] - 1
+2021/10/07 11:53:55.752  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2021/10/07 11:53:55.752  8393 139639275793216 GW2   Virtual Desktop [0, 0, 3840, 1200]
+2021/10/07 11:53:58.048  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/07 11:53:58.056  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/07 11:53:58.057  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/07 11:53:58.061  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/07 11:53:59.434  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND4 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 11:53:59.434  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/07 11:53:59.434  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND6 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 11:53:59.434  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/07 11:53:59.436  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/07 11:53:59.436  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND4 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 11:53:59.437  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND6 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 11:53:59.437  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/07 11:54:09.546  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/07 11:54:09.546  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1080]
+2021/10/07 13:17:36.656  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/10/07 13:17:36.656  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2021/10/07 13:17:36.656  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1080]
+2021/10/07 13:17:36.679  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [1920, 0, 3840, 1080] - 1
+2021/10/07 13:17:36.679  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2021/10/07 13:17:36.679  8393 139639275793216 GW2   Virtual Desktop [0, 0, 3840, 1080]
+2021/10/07 13:17:36.682  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND7 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 13:17:36.682  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND5 1920x1080@60Hz [1920, 0, 3840, 1080] - 1
+2021/10/07 13:17:36.682  8393 139639275793216 GW2   Virtual Desktop [0, 0, 3840, 1200]
+2021/10/07 13:17:44.498  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/07 13:17:44.591  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/07 13:22:54.511  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/07 13:22:54.521  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/07 13:22:54.910  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/07 13:22:54.923  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/07 13:28:54.345  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/07 13:28:54.441  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/07 13:41:01.713  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/07 13:41:01.714  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/07 13:41:01.714  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/07 13:41:01.714  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=1510, c=1510)
+2021/10/07 13:41:01.714  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=190, c=380)
+2021/10/07 13:44:05.560  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND7 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/07 13:44:05.560  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/07 13:44:07.546  8393 139639212037696 GW2   Account::UpdateState: KA = 0, active = 1
+2021/10/07 13:44:07.546  8393 139638966572608 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/07 13:44:07.546  8393 139639275793216 GW2   Account::SetLoginState: new state: 0
+2021/10/07 13:44:07.546  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2021/10/07 13:44:07.546  8393 139639228823104 GW2   ChatManager::ClearNonAccountChat
+2021/10/07 13:44:07.546  8393 139638966572608 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2021/10/07 13:44:07.546  8393 139638966572608 GW2   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2021/10/07 13:44:07.546  8393 139638966572608 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 50e335b7-1718-4d2d-bff2-05dc63b256be)
+2021/10/07 13:44:07.551  8393 139638983358016 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=0 showDynPwd=0
+2021/10/07 13:44:07.653  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/07 13:44:07.666  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/07 13:44:08.039  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/07 13:44:08.047  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/08 08:23:00.694  8393 139639203644992 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/08 08:23:03.887  8393 139638974965312 GW2   IpcRouterClock: received router time: 20211008T132304.249902
+2021/10/08 08:23:05.974  8393 139639195252288 GW2   Account::UpdateState: KA = 1, active = 1
+2021/10/08 08:23:05.974  8393 139639212037696 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2021/10/08 08:23:05.975  8393 139639212037696 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2021/10/08 08:23:05.975  8393 139639275793216 GW2   Account::SetLoginState: new state: 2
+2021/10/08 08:23:05.975  8393 139639212037696 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 75dde7fe-18ae-4dce-800a-44eb711fa2b6)
+2021/10/08 08:23:05.975  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2021/10/08 08:23:05.975  8393 139639212037696 GW2   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2021/10/08 08:23:06.482  8393 139638966572608 GW2!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/10/08 08:23:06.482  8393 139638966572608 GW2!  InterProcessGUI::ProcessCommandForCommandClass: Command 38 for class 3 not handled !
+2021/10/08 08:23:25.114  8393 139639195252288 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/08 08:23:25.114  8393 139639195252288 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2021/10/08 08:23:25.114  8393 139639195252288 GW2   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2021/10/08 08:23:25.114  8393 139639195252288 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 75dde7fe-18ae-4dce-800a-44eb711fa2b6)
+2021/10/08 08:23:25.114  8393 139639203644992 GW2   Account::UpdateState: KA = 0, active = 1
+2021/10/08 08:23:25.116  8393 139639275793216 GW2   Account::SetLoginState: new state: 0
+2021/10/08 08:23:25.116  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2021/10/08 08:23:25.116  8393 139638974965312 GW2   ChatManager::ClearNonAccountChat
+2021/10/08 08:23:25.116  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/08 08:23:25.119  8393 139638966572608 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=0 showDynPwd=0
+2021/10/08 08:23:25.460  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/08 08:23:25.474  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/08 08:25:35.660  8393 139638974965312 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/08 08:25:36.817  8393 139639203644992 GW2   IpcRouterClock: received router time: 20211008T132538.072958
+2021/10/08 08:25:37.491  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/08 08:25:37.602  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/08 08:25:38.685  8393 139638974965312 GW2   Account::UpdateState: KA = 1, active = 1
+2021/10/08 08:25:38.685  8393 139639212037696 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2021/10/08 08:25:38.685  8393 139639212037696 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2021/10/08 08:25:38.685  8393 139639275793216 GW2   Account::SetLoginState: new state: 2
+2021/10/08 08:25:38.685  8393 139639212037696 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: cf9a6400-7c1c-4ee1-a944-8017529af0fe)
+2021/10/08 08:25:38.685  8393 139639212037696 GW2   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2021/10/08 08:25:38.685  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2021/10/08 08:25:39.051  8393 139639212037696 GW2!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/10/08 08:25:39.051  8393 139639212037696 GW2!  InterProcessGUI::ProcessCommandForCommandClass: Command 38 for class 3 not handled !
+2021/10/08 08:29:58.720  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND7 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/08 08:29:58.720  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2021/10/08 08:29:58.720  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/08 08:29:58.759  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND7 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/08 08:29:58.760  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND8 1920x1080@60Hz [1920, 0, 3840, 1080] - 1
+2021/10/08 08:29:58.760  8393 139639275793216 GW2   Virtual Desktop [0, 0, 3840, 1200]
+2021/10/08 08:40:35.085  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/08 08:40:35.085  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/08 08:40:35.085  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/08 08:40:35.085  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=628, c=628)
+2021/10/08 08:40:35.086  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=42, c=84)
+2021/10/08 08:40:42.113  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/08 08:40:42.114  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/08 08:40:42.114  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/08 08:40:42.114  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=628, c=628)
+2021/10/08 08:40:42.114  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=42, c=84)
+2021/10/08 08:47:01.407  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/08 08:47:01.408  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/08 08:47:01.408  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/08 08:47:01.408  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=1242, c=1242)
+2021/10/08 08:47:01.408  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=98, c=196)
+2021/10/08 08:51:21.471  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/08 08:51:21.471  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/08 08:51:21.474  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/08 08:51:21.474  8393 139638245160512 GW2!! XClipboard: Unable to get property 'TARGETS', Errorcode=11
+2021/10/08 08:51:21.474  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=41, c=82)
+2021/10/08 08:55:10.177  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND7 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/08 08:55:10.177  8393 139639275793216 GW2   Virtual Desktop [0, 0, 1920, 1200]
+2021/10/08 08:55:17.711  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/08 08:55:17.723  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/08 08:55:17.724  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/08 08:55:17.730  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/08 09:22:55.877  8393 139639203644992 GW2   Account::UpdateState: KA = 0, active = 1
+2021/10/08 09:22:55.877  8393 139638966572608 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/08 09:22:55.877  8393 139638966572608 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2021/10/08 09:22:55.877  8393 139638966572608 GW2   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2021/10/08 09:22:55.877  8393 139638966572608 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: cf9a6400-7c1c-4ee1-a944-8017529af0fe)
+2021/10/08 09:22:55.877  8393 139639275793216 GW2   Account::SetLoginState: new state: 0
+2021/10/08 09:22:55.877  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2021/10/08 09:22:55.878  8393 139638983358016 GW2   ChatManager::ClearNonAccountChat
+2021/10/08 09:22:55.879  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/08 09:22:55.880  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/08 09:22:55.880  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/08 09:22:55.882  8393 139639195252288 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=0 showDynPwd=0
+2021/10/08 16:26:47.119  8393 139639220430400 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/08 16:27:08.164  8393 139639220430400 GW2   IpcRouterClock: received router time: 20211008T212708.758260
+2021/10/08 16:27:09.812  8393 139638983358016 GW2   Account::UpdateState: KA = 1, active = 1
+2021/10/08 16:27:09.812  8393 139639212037696 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2021/10/08 16:27:09.813  8393 139639275793216 GW2   Account::SetLoginState: new state: 2
+2021/10/08 16:27:09.813  8393 139639212037696 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2021/10/08 16:27:09.813  8393 139639212037696 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 0bfff045-0207-4a0d-a70e-6a2d1ab14d62)
+2021/10/08 16:27:09.813  8393 139639212037696 GW2   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2021/10/08 16:27:09.813  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2021/10/08 16:27:09.984  8393 139639212037696 GW2!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/10/08 16:27:11.120  8393 139638966572608 GW2   Account::UpdateState: KA = 0, active = 1
+2021/10/08 16:27:11.120  8393 139638983358016 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/08 16:27:11.120  8393 139638983358016 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2021/10/08 16:27:11.120  8393 139638983358016 GW2   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2021/10/08 16:27:11.120  8393 139639275793216 GW2   Account::SetLoginState: new state: 0
+2021/10/08 16:27:11.120  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2021/10/08 16:27:11.121  8393 139639195252288 GW2   ChatManager::ClearNonAccountChat
+2021/10/08 16:27:11.121  8393 139638983358016 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 0bfff045-0207-4a0d-a70e-6a2d1ab14d62)
+2021/10/08 16:27:11.123  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/08 16:27:11.127  8393 139638966572608 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=0 showDynPwd=0
+2021/10/08 16:27:11.493  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/08 16:27:11.496  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/12 15:22:00.124  8393 139638974965312 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/12 15:22:00.539  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/12 15:22:00.652  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/12 15:23:19.689  8393 139639195252288 GW2   IpcRouterClock: received router time: 20211012T202319.832935
+2021/10/12 15:23:21.771  8393 139639228823104 GW2   Account::UpdateState: KA = 1, active = 1
+2021/10/12 15:23:21.771  8393 139639220430400 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2021/10/12 15:23:21.771  8393 139639275793216 GW2   Account::SetLoginState: new state: 2
+2021/10/12 15:23:21.771  8393 139639220430400 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2021/10/12 15:23:21.771  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2021/10/12 15:23:21.771  8393 139639220430400 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 3b3a6cd6-dcbe-4a47-b4ee-ebdbd113fe91)
+2021/10/12 15:23:21.771  8393 139639220430400 GW2   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2021/10/12 15:23:22.320  8393 139638983358016 GW2!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/10/12 15:31:44.186  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.35 
+2021/10/12 15:31:44.201  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/12 15:31:44.561  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/12 15:31:44.562  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/12 15:46:34.100  8393 139639212037696 GW2   Account::UpdateState: KA = 0, active = 1
+2021/10/12 15:46:34.100  8393 139639228823104 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/12 15:46:34.100  8393 139639275793216 GW2   Account::SetLoginState: new state: 0
+2021/10/12 15:46:34.100  8393 139639228823104 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2021/10/12 15:46:34.100  8393 139639228823104 GW2   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2021/10/12 15:46:34.100  8393 139639228823104 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 3b3a6cd6-dcbe-4a47-b4ee-ebdbd113fe91)
+2021/10/12 15:46:34.100  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2021/10/12 15:46:34.100  8393 139638966572608 GW2   ChatManager::ClearNonAccountChat
+2021/10/12 15:46:34.102  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/12 15:46:34.103  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/12 15:46:34.104  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/10/12 15:46:34.105  8393 139639228823104 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=0 showDynPwd=0
+2021/10/12 16:04:33.163  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND7 1920x1200@60Hz [0, 0, 1920, 1200] - 1
+2021/10/12 16:04:33.163  8393 139639275793216 GW2   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND9 1920x1080@60Hz [1920, 0, 3840, 1080] - 1
+2021/10/12 16:04:33.163  8393 139639275793216 GW2   Virtual Desktop [0, 0, 3840, 1200]
+2021/10/12 16:04:36.905  8393 139639220430400 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/10/12 16:04:40.477  8393 139639275793216 GW2   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher ( :1.35
+2021/10/12 16:04:40.588  8393 139639275793216 GW2   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/10/12 16:04:51.182  8393 139638983358016 GW2   IpcRouterClock: received router time: 20211012T210452.212590
+2021/10/12 16:04:53.479  8393 139638974965312 GW2   Account::UpdateState: KA = 1, active = 1
+2021/10/12 16:04:53.479  8393 139639228823104 GW2   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=377940740 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2021/10/12 16:04:53.479  8393 139639275793216 GW2   Account::SetLoginState: new state: 2
+2021/10/12 16:04:53.480  8393 139639228823104 GW2   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2021/10/12 16:04:53.480  8393 139639275793216 GW2   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2021/10/12 16:04:53.480  8393 139639228823104 GW2   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 4d66d4e1-eb2c-4a80-91a8-b3b6c6409805)
+2021/10/12 16:04:53.480  8393 139639228823104 GW2   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2021/10/12 16:04:53.803  8393 139638966572608 GW2!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/10/12 16:06:09.604  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/12 16:06:09.605  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/12 16:06:09.616  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=222, c=444)
+2021/10/12 16:06:26.753  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/12 16:06:26.755  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/12 16:06:26.755  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=228, c=456)
+2021/10/12 16:32:04.115  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/12 16:32:04.115  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/12 16:32:04.116  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/12 16:32:04.116  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=530, c=530)
+2021/10/12 16:32:04.116  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=19, c=38)
+2021/10/12 16:33:21.314  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/12 16:33:21.315  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/12 16:33:21.315  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/12 16:33:21.315  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=664, c=664)
+2021/10/12 16:33:21.315  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=32, c=64)
+2021/10/12 16:51:25.694  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/12 16:51:25.695  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/12 16:51:25.695  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/12 16:51:25.696  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=1514, c=1514)
+2021/10/12 16:51:25.696  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=194, c=388)
+2021/10/12 16:52:55.227  8393 139638245160512 GW2   XClipboard: RequestClipboard as TARGETS (352)
+2021/10/12 16:52:55.228  8393 139638245160512 GW2   XClipboard: RequestClipboard as text/html (492)
+2021/10/12 16:52:55.228  8393 139638245160512 GW2   XClipboard: RequestClipboard as UTF8_STRING (242)
+2021/10/12 16:52:55.228  8393 139638245160512 GW2   XClipboard: Got clipboard as 'text/html', size (n=1514, c=1514)
+2021/10/12 16:52:55.228  8393 139638245160512 GW2   XClipboard: Got clipboard as 'UTF8_STRING', size (n=194, c=388)
+2021/10/12 16:56:20.620  8393 139639275793216 GW2   GuiMain: commitDataRequest (session might shut down)
+2021/10/12 16:56:22.552  8393 139639275793216 GW2   GuiMain: commitDataRequest (session might shut down)
+2021/10/12 16:56:22.565  8393 139638245160512 GW2   XClipboard: Shutting down event loop
+2021/10/12 16:56:22.566  8393 139639275793216 GW2   Chat::Stop: Stopping chat
+2021/10/12 16:56:22.566  8393 139639275793216 GW2   ChatManager::UnregisterIncomingCommandRegistration: destroying incomingCommandRegistration
+2021/10/12 16:56:22.566  8393 139639275793216 GW2   IncomingCommandRegistration::Stop: disconnecting ready state properties
+2021/10/12 16:56:22.566  8393 139639275793216 GW2   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2021/10/12 16:56:22.566  8393 139639275793216 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 4d66d4e1-eb2c-4a80-91a8-b3b6c6409805)
+2021/10/12 16:56:22.566  8393 139639275793216 GW2   ChatManagerHolder::Close
+2021/10/12 16:56:22.566  8393 139639203644992 GW2   ChatManager::Close
+2021/10/12 16:56:22.566  8393 139639203644992 GW2   ChatManager::UnregisterIncomingCommandRegistration: destroying incomingCommandRegistration
+2021/10/12 16:56:22.566  8393 139639203644992 GW2   ChatManager::ClearAccountAndNonAccountChat
+2021/10/12 16:56:22.566  8393 139639275793216 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: c8d7c2d1-ae13-4090-bd25-1765c1d9ad1d)
+2021/10/12 16:56:22.566  8393 139639203644992 GW2   ChatManager::ClearAccountChat: clearPersistently = 0
+2021/10/12 16:56:22.566  8393 139639203644992 GW2   ChatManager::~ChatManager: destroyed
+2021/10/12 16:56:22.566  8393 139639203644992 GW2   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: destroyed
+2021/10/12 16:56:22.568  8393 139639220430400 GW2   CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: ChatManager::Close] trackee expired, callback was not called
+2021/10/12 16:56:22.568  8393 139639220430400 GW2   CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: ConversationListModel::Close] trackee expired, callback was not called
+2021/10/12 16:56:22.568  8393 139639220430400 GW2   CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: ConversationManager::Close] trackee expired, callback was not called
+2021/10/12 16:56:22.568  8393 139639220430400 GW2   CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: Chat::Stop] trackee expired, callback was not called
+2021/10/12 16:56:22.569  8393 139639275793216 GW2   InterProcessBase::SetReadyToProcessCommands(0)
+2021/10/12 16:56:22.569  8393 139639275793216 GW2   VoIP: Destructor
+2021/10/12 16:56:22.569  8393 139638974965312 GW2   VoIP: VoIPFieldLoggerFileSynchronizer (a ThreadPool): StopThreads
+2021/10/12 16:56:22.569  8393 139639275793216 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 2c282f90-6cca-45c7-9da5-d7513ade5d08)
+2021/10/12 16:56:22.569  8393 139639275793216 GW2   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: b549ca6b-50a6-4b22-bc7a-94c1968b44bc)
+2021/10/12 16:56:22.569  8393 139639275793216 GW2   InterProcessBase::ShutDown: Shutdown IPC
+2021/10/12 16:56:22.573  8393 139638966572608 GW2   TcpProcessConnector::HandleRead(): Socket gracefully closed (PID=8089)
+2021/10/12 16:56:22.573  8393 139638966572608 GW2   TcpProcessConnector::CloseConnection(): PID=8089
+2021/10/12 16:56:22.573  8393 139638966572608 GW2   InterProcessBase::EventFunctionInternal(): IPC-Connection Closed
+2021/10/12 16:56:22.573  8393 139638966572608 GW2   TcpProcessConnector::CloseConnection(): PID=8089
+2021/10/12 16:56:22.574  8393 139639275793216 GW2   interprocessbase::SecureNetwork destroyed
+2021/10/12 16:56:22.582  8393 139639275793216 GW2!!!Crash: stack dump has been written at '/home/cheyenne/.local/share/teamviewer15/logfiles/TeamViewer_HI_15.22.3_2021-10-12-165622.amd64.stack'
+2021/10/12 16:56:24.870  8393 139639275793216 GW2!!!Crash: Coredump has been written at '/home/cheyenne/.local/share/teamviewer15/logfiles/TeamViewer_HI_15.22.3_2021-10-12-165622.amd64.core', Errorcode=11
+2021/10/12 16:56:24.870  8393 139639275793216 GW2   Process received fatal SIGPIPE
+2021/10/12 16:56:24.870  8393 139638941394496 GW2   SysSessionInfoManager::SessionRemoved: removing session WaylandSession: [SysSession 450215437 [type=87 vt=2 tty= pseudotty=0 info=1 id=2 user=cheyenne state=user active=1 reliable=1]]
+2021/10/12 16:56:24.871  8393 139639237215808 GW2   systemd: ActiveSession: activatedSessionId= deactivatedSessionId=2
