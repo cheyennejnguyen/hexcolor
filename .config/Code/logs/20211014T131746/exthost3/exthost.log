@@ -1,0 +1,352 @@
+[2021-10-14 13:20:09.177] [exthost] [info] extension host started
+[2021-10-14 13:20:09.218] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-14 13:20:09.218] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-14 13:20:09.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-14 13:20:09.223] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-14 13:20:09.224] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-14 13:20:09.224] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/git/dist/main
+[2021-10-14 13:20:09.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-14 13:20:09.328] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-10-14 13:20:09.334] [exthost] [info] eager extensions activated
+[2021-10-14 13:20:09.341] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-14 13:20:09.341] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-14 13:20:09.396] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-14 13:20:09.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-14 13:20:09.399] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-14 13:20:09.399] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-14 13:20:09.445] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-14 13:20:09.445] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-14 13:20:22.149] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1502
+[2021-10-14 13:21:55.368] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-10-14 13:21:55.368] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-10-14 13:22:00.408] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-10-14 13:22:00.408] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-14 13:29:58.539] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-10-14 13:29:58.544] [exthost] [error] Error: Unable to find matching pair for < at char 677
+	at r.error (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at h (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at S (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at j (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:192785)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:178533)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:177404)
+	at U.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:180724)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200950
+	at xe._withAdapter (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:191024)
+	at xe.$provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200926)
+	at i._doInvokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at i._invokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at i._receiveRequest (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12097)
+	at i._receiveOneMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30514
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at u._receiveMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at v.acceptChunk (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.w (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13465)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-14 13:30:03.262] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-10-14 13:30:03.262] [exthost] [error] Error: Unable to find matching pair for < at char 677
+	at r.error (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at h (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at S (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at j (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:192785)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:178533)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:177404)
+	at U.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:180724)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200950
+	at xe._withAdapter (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:191024)
+	at xe.$provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200926)
+	at i._doInvokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at i._invokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at i._receiveRequest (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12097)
+	at i._receiveOneMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30514
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at u._receiveMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at v.acceptChunk (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.w (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13465)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-14 13:30:03.952] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-10-14 13:30:03.952] [exthost] [error] Error: Unable to find matching pair for < at char 677
+	at r.error (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at h (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at S (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at j (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:192785)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:178533)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:177404)
+	at U.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:180724)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200950
+	at xe._withAdapter (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:191024)
+	at xe.$provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200926)
+	at i._doInvokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at i._invokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at i._receiveRequest (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12097)
+	at i._receiveOneMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30514
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at u._receiveMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at v.acceptChunk (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.w (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13465)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-14 13:30:05.408] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-10-14 13:30:05.408] [exthost] [error] Error: Unable to find matching pair for < at char 677
+	at r.error (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at h (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at S (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at j (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:192785)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:178533)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:177404)
+	at U.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:180724)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200950
+	at xe._withAdapter (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:191024)
+	at xe.$provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200926)
+	at i._doInvokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at i._invokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at i._receiveRequest (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12097)
+	at i._receiveOneMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30514
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at u._receiveMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at v.acceptChunk (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.w (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13465)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-14 13:30:05.605] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-10-14 13:30:05.606] [exthost] [error] Error: Unable to find matching pair for < at char 677
+	at r.error (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at h (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at S (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at j (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:192785)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:178533)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:177404)
+	at U.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:180724)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200950
+	at xe._withAdapter (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:191024)
+	at xe.$provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200926)
+	at i._doInvokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at i._invokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at i._receiveRequest (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12097)
+	at i._receiveOneMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30514
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at u._receiveMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at v.acceptChunk (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.w (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13465)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-14 13:30:06.010] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-10-14 13:30:06.010] [exthost] [error] Error: Unable to find matching pair for < at char 677
+	at r.error (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at h (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at S (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at j (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:192785)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:178533)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:177404)
+	at U.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:180724)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200950
+	at xe._withAdapter (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:191024)
+	at xe.$provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200926)
+	at i._doInvokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at i._invokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at i._receiveRequest (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12097)
+	at i._receiveOneMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30514
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at u._receiveMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at v.acceptChunk (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.w (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13465)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-14 13:30:06.659] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-10-14 13:30:06.660] [exthost] [error] Error: Unable to find matching pair for < at char 677
+	at r.error (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at h (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at S (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at j (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:192785)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:178533)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:177404)
+	at U.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:180724)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200950
+	at xe._withAdapter (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:191024)
+	at xe.$provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200926)
+	at i._doInvokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at i._invokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at i._receiveRequest (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12097)
+	at i._receiveOneMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30514
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at u._receiveMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at v.acceptChunk (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.w (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13465)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-14 13:30:06.776] [exthost] [error] [vscode.emmet] provider FAILED
+[2021-10-14 13:30:06.776] [exthost] [error] Error: Unable to find matching pair for < at char 677
+	at r.error (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:22607)
+	at f (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:21837)
+	at u (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14498)
+	at l (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:14611)
+	at /snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15226
+	at h (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:15333)
+	at S (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16251)
+	at j (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:16661)
+	at t.getRootNode (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:192785)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:178533)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:177404)
+	at U.provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:180724)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200950
+	at xe._withAdapter (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:191024)
+	at xe.$provideCompletionItems (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:200926)
+	at i._doInvokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at i._invokeHandler (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at i._receiveRequest (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12097)
+	at i._receiveOneMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30514
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at l.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at u._receiveMessage (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at a.fire (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at v.acceptChunk (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.w (/snap/code/76/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13465)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-14 13:32:02.732] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2021-10-14 13:32:02.733] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/debug-server-ready/dist/extension
+[2021-10-14 13:32:03.352] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1511
+[2021-10-14 13:33:25.214] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2021-10-14 13:33:25.215] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-10-14 13:38:00.771] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1513
+[2021-10-14 13:38:05.904] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1513
+[2021-10-14 13:40:56.548] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1512
+[2021-10-14 13:41:35.870] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1512
+[2021-10-14 13:43:38.845] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1513
+[2021-10-14 13:45:31.278] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1514
+[2021-10-14 13:46:27.566] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1513
+[2021-10-14 13:47:17.016] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1573
+[2021-10-14 13:47:27.707] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1616
+[2021-10-14 13:49:51.831] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1614
+[2021-10-14 13:52:10.570] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1615
+[2021-10-14 13:55:21.121] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1616
+[2021-10-14 13:56:37.771] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1616
+[2021-10-14 13:58:26.846] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1615
+[2021-10-14 14:00:30.179] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1615
+[2021-10-14 14:04:09.038] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1616
+[2021-10-14 14:04:14.176] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1616
+[2021-10-14 15:43:41.091] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2063
+[2021-10-14 15:43:41.710] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-14 15:43:42.741] [exthost] [info] exiting with code 0

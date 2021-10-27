@@ -204,3 +204,147 @@ git push --set-upstream origin main
 git add .
 git commit -m "day 5"
 git push
+ls
+cd projects
+git add .
+cd projects
+cd checker
+git commit -m "day 6"
+git push
+cd projects
+cd Projects
+cd checker
+git add .
+git commit -m "day 6"
+git push
+echo "# click_copy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:cheyennejnguyen/click_copy.git
+git push -u origin main
+git status
+cd 
+cd Projects
+click_to_copy
+cd click_to_copy
+git add .
+git commit -m "day 7"
+git push 
+[200~echo "# click_copy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:cheyennejnguyen/click_copy.git
+git push -u origin main~
+git push -u origin
+git push --set-upstream origin main
+ls
+ls -alh
+ssh 
+ssh-add --help
+ssh-keyscan 
+ssh-agent 
+cat ~/.ssh/id_rsa.pub 
+git add .
+git commit-m "day 6"
+comit-tree
+commit-tree
+git commit -m "day 6"
+git push
+git push --set-upstream origin main
+cd
+cd Projects
+cd input_count
+echo "# input_count" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:cheyennejnguyen/input_count.git
+git push -u origin main
+git add .
+git commit -m "day 7"
+git push
+cd Projects
+cd API
+git add .
+git commit -m "day 8"
+git push
+echo "# api" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:cheyennejnguyen/api.git
+git push -u origin main
+git push 
+git add .
+git commit -m "day 8"
+git push 
+cd Projects
+cd ajax
+git add .
+x-special/nautilus-clipboard
+copy
+file:///home/cheyenne/Projects/API/README.md
+git commit -m "day 9"
+git push 
+x-special/nautilus-clipboard
+copy
+file:///home/cheyenne/Projects/API/README.md
+git add .
+git commit -m "day 9"
+git add /
+git add .
+git commit -m
+git commit -m "day 9"
+git push
+echo "# ajax" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:cheyennejnguyen/ajax.git
+git push -u origin main
+git add .
+git commit -m "ok"
+git push
+cd Projects
+cd list_search
+git add .
+git commit -m "day 10"
+git push
+echo "# list_search" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:cheyennejnguyen/list_search.git
+git push -u origin main
+git add .
+git commit -m "day 10"
+git push
+cd Projects
+cd ajax
+git add .
+git commit -m "part two"
+git push
+cd Projects
+cd date_countdown
+git add .
+git commit -m "day ?"
+git push
+echo "# date_countdown" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:cheyennejnguyen/date_countdown.git
+git push -u origin main
+git add .
+git push 
+git commit -m "ok"
+git push

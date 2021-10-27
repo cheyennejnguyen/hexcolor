@@ -39,6 +39,87 @@
                 "folderUri": "file:///home/cheyenne/Downloads"
             },
             {
+                "fileUri": "file:///home/cheyenne/Projects/date_countdown/styles.css"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/date_countdown/index.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/date_countdown/hex.js"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/ajax/fetch.js"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/list_search/style.css"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/list_search/script.js"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/list_search/index.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/list_search/embed.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/ajax/users.json"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/ajax/styles.css"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/ajax/index.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/ajax/ajax.js"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/API/styles.css"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/API/script.js"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/API/index.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/input_count/styles.css"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/input_count/rng.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/input_count/hexcolor.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/input_count/hex.js"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/input_count/README.md"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/google_drive_link/styles.css"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/google_drive_link/script.js"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/google_drive_link/index.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/click_to_copy/styles.css"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/click_to_copy/script.js"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Projects/click_to_copy/index.html"
+            },
+            {
+                "fileUri": "file:///home/cheyenne/Downloads/--%2B1.%2BTemplate.zip"
+            },
+            {
                 "fileUri": "file:///home/cheyenne/Projects/checker/hex.js"
             },
             {
@@ -73,9 +154,6 @@
             },
             {
                 "fileUri": "file:///home/cheyenne/Projects/random_number/rng.html"
-            },
-            {
-                "fileUri": "file:///home/cheyenne/Downloads/--%2B1.%2BTemplate.zip"
             },
             {
                 "fileUri": "file:///home/cheyenne/Projects/random_number/README.md"
@@ -239,111 +317,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/checker/hex.js",
-                                        "path": "/home/cheyenne/Projects/checker/hex.js",
+                                        "external": "file:///home/cheyenne/Projects/date_countdown/styles.css",
+                                        "path": "/home/cheyenne/Projects/date_countdown/styles.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/checker/hex.js"
+                                    "label": "~/Projects/date_countdown/styles.css"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/checker/checker.html",
-                                        "path": "/home/cheyenne/Projects/checker/checker.html",
+                                        "external": "file:///home/cheyenne/Projects/date_countdown/index.html",
+                                        "path": "/home/cheyenne/Projects/date_countdown/index.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/checker/checker.html"
+                                    "label": "~/Projects/date_countdown/index.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/checker/index.html",
-                                        "path": "/home/cheyenne/Projects/checker/index.html",
+                                        "external": "file:///home/cheyenne/Projects/date_countdown/hex.js",
+                                        "path": "/home/cheyenne/Projects/date_countdown/hex.js",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/checker/index.html"
+                                    "label": "~/Projects/date_countdown/hex.js"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/checker/styles.css",
-                                        "path": "/home/cheyenne/Projects/checker/styles.css",
+                                        "external": "file:///home/cheyenne/Projects/ajax/fetch.js",
+                                        "path": "/home/cheyenne/Projects/ajax/fetch.js",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/checker/styles.css"
+                                    "label": "~/Projects/ajax/fetch.js"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Downloads/index.html",
-                                        "path": "/home/cheyenne/Downloads/index.html",
+                                        "external": "file:///home/cheyenne/Projects/list_search/style.css",
+                                        "path": "/home/cheyenne/Projects/list_search/style.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/index.html"
+                                    "label": "~/Projects/list_search/style.css"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/modal/README.md",
-                                        "path": "/home/cheyenne/Projects/modal/README.md",
+                                        "external": "file:///home/cheyenne/Projects/list_search/script.js",
+                                        "path": "/home/cheyenne/Projects/list_search/script.js",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/modal/README.md"
+                                    "label": "~/Projects/list_search/script.js"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/modal/hex.js",
-                                        "path": "/home/cheyenne/Projects/modal/hex.js",
+                                        "external": "file:///home/cheyenne/Projects/list_search/index.html",
+                                        "path": "/home/cheyenne/Projects/list_search/index.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/modal/hex.js"
+                                    "label": "~/Projects/list_search/index.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/modal/rng.html",
-                                        "path": "/home/cheyenne/Projects/modal/rng.html",
+                                        "external": "file:///home/cheyenne/Projects/list_search/embed.html",
+                                        "path": "/home/cheyenne/Projects/list_search/embed.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/modal/rng.html"
+                                    "label": "~/Projects/list_search/embed.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/modal/styles.css",
-                                        "path": "/home/cheyenne/Projects/modal/styles.css",
+                                        "external": "file:///home/cheyenne/Projects/ajax/users.json",
+                                        "path": "/home/cheyenne/Projects/ajax/users.json",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/modal/styles.css"
+                                    "label": "~/Projects/ajax/users.json"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/cheyenne/Projects/random_number/randomnumber.js",
-                                        "path": "/home/cheyenne/Projects/random_number/randomnumber.js",
+                                        "external": "file:///home/cheyenne/Projects/ajax/styles.css",
+                                        "path": "/home/cheyenne/Projects/ajax/styles.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/random_number/randomnumber.js"
+                                    "label": "~/Projects/ajax/styles.css"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -669,8 +747,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -684,8 +761,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "workbench.action.toggleEditorVisibility",
@@ -1771,23 +1847,23 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 256,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/cheyenne/.config/Code/Backups/1634172057340",
+            "backupPath": "/home/cheyenne/.config/Code/Backups/1635258761544",
             "uiState": {
                 "mode": 1,
-                "x": 72,
-                "y": 299,
-                "width": 1024,
+                "x": 144,
+                "y": 94,
+                "width": 1386,
                 "height": 768
             }
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/cheyenne/Projects/checker"
+    "pickerWorkingDir": "/home/cheyenne/Projects/date_countdown"
 }

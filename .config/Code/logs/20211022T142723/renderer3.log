@@ -1,0 +1,209 @@
+[2021-10-26 09:32:41.107] [renderer3] [info] Starting extension host with pid 9494.
+[2021-10-26 09:32:41.286] [renderer3] [error] [Extension Host] (node:9494) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-10-26 09:43:20.979] [renderer3] [error] TreeError [CallStackView] Data tree node not found: [object Object]: Error: TreeError [CallStackView] Data tree node not found: [object Object]
+    at X.getDataNode (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:19819)
+    at X.rerender (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:17321)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1905:10872
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at N.setName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1906:10377)
+    at g.$setDebugSessionName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1514:7447)
+    at f._doInvokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:13095)
+    at f._invokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:12779)
+    at f._receiveRequest (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:11441)
+    at f._receiveOneMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:10119)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:8215
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at a.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:16680)
+    at c._receiveMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:21950)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:18828
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at S.acceptChunk (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:14041)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:13389
+    at Socket._ (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2942:46960)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-26 09:53:18.702] [renderer3] [error] TreeError [CallStackView] Data tree node not found: [object Object]: Error: TreeError [CallStackView] Data tree node not found: [object Object]
+    at X.getDataNode (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:19819)
+    at X.rerender (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:17321)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1905:10872
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at N.setName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1906:10377)
+    at g.$setDebugSessionName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1514:7447)
+    at f._doInvokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:13095)
+    at f._invokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:12779)
+    at f._receiveRequest (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:11441)
+    at f._receiveOneMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:10119)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:8215
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at a.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:16680)
+    at c._receiveMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:21950)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:18828
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at S.acceptChunk (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:14041)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:13389
+    at Socket._ (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2942:46960)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-26 09:53:19.860] [renderer3] [error] TreeError [CallStackView] Data tree node not found: [object Object]: Error: TreeError [CallStackView] Data tree node not found: [object Object]
+    at X.getDataNode (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:19819)
+    at X.rerender (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:17321)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1905:10872
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at N.setName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1906:10377)
+    at g.$setDebugSessionName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1514:7447)
+    at f._doInvokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:13095)
+    at f._invokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:12779)
+    at f._receiveRequest (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:11441)
+    at f._receiveOneMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:10119)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:8215
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at a.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:16680)
+    at c._receiveMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:21950)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:18828
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at S.acceptChunk (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:14041)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:13389
+    at Socket._ (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2942:46960)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-26 09:53:21.079] [renderer3] [error] TreeError [CallStackView] Data tree node not found: [object Object]: Error: TreeError [CallStackView] Data tree node not found: [object Object]
+    at X.getDataNode (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:19819)
+    at X.rerender (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:17321)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1905:10872
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at N.setName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1906:10377)
+    at g.$setDebugSessionName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1514:7447)
+    at f._doInvokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:13095)
+    at f._invokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:12779)
+    at f._receiveRequest (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:11441)
+    at f._receiveOneMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:10119)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:8215
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at a.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:16680)
+    at c._receiveMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:21950)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:18828
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at S.acceptChunk (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:14041)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:13389
+    at Socket._ (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2942:46960)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-26 09:53:34.950] [renderer3] [error] TreeError [CallStackView] Data tree node not found: [object Object]: Error: TreeError [CallStackView] Data tree node not found: [object Object]
+    at X.getDataNode (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:19819)
+    at X.rerender (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:17321)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1905:10872
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at N.setName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1906:10377)
+    at g.$setDebugSessionName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1514:7447)
+    at f._doInvokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:13095)
+    at f._invokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:12779)
+    at f._receiveRequest (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:11441)
+    at f._receiveOneMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:10119)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:8215
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at a.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:16680)
+    at c._receiveMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:21950)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:18828
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at S.acceptChunk (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:14041)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:13389
+    at Socket._ (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2942:46960)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-26 09:53:35.989] [renderer3] [error] TreeError [CallStackView] Data tree node not found: [object Object]: Error: TreeError [CallStackView] Data tree node not found: [object Object]
+    at X.getDataNode (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:19819)
+    at X.rerender (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:17321)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1905:10872
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at N.setName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1906:10377)
+    at g.$setDebugSessionName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1514:7447)
+    at f._doInvokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:13095)
+    at f._invokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:12779)
+    at f._receiveRequest (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:11441)
+    at f._receiveOneMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:10119)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:8215
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at a.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:16680)
+    at c._receiveMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:21950)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:18828
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at S.acceptChunk (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:14041)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:13389
+    at Socket._ (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2942:46960)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-26 09:53:55.281] [renderer3] [error] TreeError [CallStackView] Data tree node not found: [object Object]: Error: TreeError [CallStackView] Data tree node not found: [object Object]
+    at X.getDataNode (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:19819)
+    at X.rerender (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:17321)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1905:10872
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at N.setName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1906:10377)
+    at g.$setDebugSessionName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1514:7447)
+    at f._doInvokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:13095)
+    at f._invokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:12779)
+    at f._receiveRequest (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:11441)
+    at f._receiveOneMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:10119)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:8215
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at a.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:16680)
+    at c._receiveMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:21950)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:18828
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at S.acceptChunk (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:14041)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:13389
+    at Socket._ (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2942:46960)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-10-26 09:53:56.910] [renderer3] [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/snap/code/78/usr/share/code/resources/app/out/bootstrap.js:1:370)
+	at process.emit (events.js:315:20)
+[2021-10-26 09:54:08.602] [renderer3] [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/snap/code/78/usr/share/code/resources/app/out/bootstrap.js:1:370)
+	at process.emit (events.js:315:20)
+[2021-10-26 09:58:31.108] [renderer3] [error] TreeError [CallStackView] Data tree node not found: [object Object]: Error: TreeError [CallStackView] Data tree node not found: [object Object]
+    at X.getDataNode (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:19819)
+    at X.rerender (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:185:17321)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1905:10872
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at N.setName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1906:10377)
+    at g.$setDebugSessionName (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1514:7447)
+    at f._doInvokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:13095)
+    at f._invokeHandler (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:12779)
+    at f._receiveRequest (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:11441)
+    at f._receiveOneMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:10119)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1523:8215
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at a.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:16680)
+    at c._receiveMessage (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:21950)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:18828
+    at l.fire (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at S.acceptChunk (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:14041)
+    at vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:13389
+    at Socket._ (vscode-file://vscode-app/snap/code/78/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2942:46960)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)

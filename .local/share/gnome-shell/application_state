@@ -1,12 +1,15 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" score="13280.796875" last-seen="1634072774"/>
-    <application id="slack_slack.desktop" score="4575.140625" last-seen="1634172676"/>
-    <application id="code_code.desktop" score="1027.34375" last-seen="1634172597"/>
-    <application id="firefox.desktop" score="0.25" last-seen="1633625473"/>
-    <application id="org.gnome.Terminal.desktop" score="33" last-seen="1634075548"/>
-    <application id="update-manager.desktop" score="1" last-seen="1634172099"/>
-    <application id="org.gnome.FileRoller.desktop" score="0.5" last-seen="1633632038"/>
+    <application id="org.gnome.eog.desktop" score="0.3125" last-seen="1634244330"/>
+    <application id="org.gnome.Nautilus.desktop" score="846.7373046875" last-seen="1635258753"/>
+    <application id="org.gnome.FileRoller.desktop" score="9.71875" last-seen="1635340488"/>
+    <application id="google-chrome.desktop" score="12524.5" last-seen="1635340488"/>
+    <application id="code_code.desktop" score="2373.021484375" last-seen="1635340284"/>
+    <application id="org.gnome.Terminal.desktop" score="23424.5" last-seen="1635260652"/>
+    <application id="slack_slack.desktop" score="6770.4462890625" last-seen="1635340284"/>
+    <application id="Zoom.desktop" score="0" last-seen="1634649159"/>
+    <application id="update-manager.desktop" score="1.0625" last-seen="1634831357"/>
+    <application id="apport-gtk.desktop" score="0.25" last-seen="1634650082"/>
   </context>
 </application-state>

@@ -1,30 +1,12 @@
-2021/09/28-15:37:40.373 a45 Reusing MANIFEST /home/cheyenne/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2021/09/28-15:37:40.374 a45 Recovering log #7
-2021/09/28-15:37:40.374 a45 Reusing old log /home/cheyenne/.config/Slack/Local Storage/leveldb/000007.log 
-2021/10/06-09:42:39.099 270c Level-0 table #11: started
-2021/10/06-09:42:39.103 270c Level-0 table #11: 13406 bytes OK
-2021/10/06-09:42:39.105 270c Delete type=0 #7
-2021/10/06-11:43:38.630 39c4 Level-0 table #13: started
-2021/10/06-11:43:38.634 39c4 Level-0 table #13: 15529 bytes OK
-2021/10/06-11:43:38.637 39c4 Delete type=0 #10
-2021/10/06-14:10:38.615 7dcc Level-0 table #15: started
-2021/10/06-14:10:38.618 7dcc Level-0 table #15: 14707 bytes OK
-2021/10/06-14:10:38.621 7dcc Delete type=0 #12
-2021/10/06-15:37:38.625 8e79 Level-0 table #17: started
-2021/10/06-15:37:38.632 8e79 Level-0 table #17: 15599 bytes OK
-2021/10/06-15:37:38.634 8e79 Delete type=0 #14
-2021/10/06-15:37:38.634 8e79 Compacting 4@0 + 1@1 files
-2021/10/06-15:37:38.637 8e79 Generated table #18@0: 7 keys, 4313 bytes
-2021/10/06-15:37:38.637 8e79 Compacted 4@0 + 1@1 files => 4313 bytes
-2021/10/06-15:37:38.639 8e79 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/10/06-15:37:38.639 8e79 Delete type=2 #15
-2021/10/06-15:37:38.639 8e79 Delete type=2 #17
-2021/10/06-15:37:38.639 8e79 Delete type=2 #11
-2021/10/06-15:37:38.639 8e79 Delete type=2 #13
-2021/10/06-15:37:38.639 8e79 Delete type=2 #8
-2021/10/07-13:31:03.261 be69 Level-0 table #20: started
-2021/10/07-13:31:03.275 be69 Level-0 table #20: 16032 bytes OK
-2021/10/07-13:31:03.277 be69 Delete type=0 #16
-2021/10/07-13:41:03.248 c2dd Level-0 table #22: started
-2021/10/07-13:41:03.251 c2dd Level-0 table #22: 15298 bytes OK
-2021/10/07-13:41:03.254 c2dd Delete type=0 #19
+2021/10/19-14:25:27.672 c43 Reusing MANIFEST /home/cheyenne/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/10/19-14:25:27.672 c43 Recovering log #27
+2021/10/19-14:25:27.672 c43 Reusing old log /home/cheyenne/.config/Slack/Local Storage/leveldb/000027.log 
+2021/10/19-14:26:28.927 c95 Level-0 table #32: started
+2021/10/19-14:26:28.930 c95 Level-0 table #32: 14879 bytes OK
+2021/10/19-14:26:28.932 c95 Delete type=0 #27
+2021/10/20-11:36:58.697 45ec Level-0 table #34: started
+2021/10/20-11:36:58.709 45ec Level-0 table #34: 14347 bytes OK
+2021/10/20-11:36:58.711 45ec Delete type=0 #31
+2021/10/20-12:31:59.368 49f1 Level-0 table #36: started
+2021/10/20-12:31:59.381 49f1 Level-0 table #36: 13642 bytes OK
+2021/10/20-12:31:59.384 49f1 Delete type=0 #33

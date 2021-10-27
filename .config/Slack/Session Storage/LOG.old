@@ -1,3 +1,6 @@
-2021/09/28-15:37:41.862 a45 Reusing MANIFEST /home/cheyenne/.config/Slack/Session Storage/MANIFEST-000001
-2021/09/28-15:37:41.862 a45 Recovering log #3
-2021/09/28-15:37:41.862 a45 Reusing old log /home/cheyenne/.config/Slack/Session Storage/000003.log 
+2021/10/19-14:25:28.947 c42 Reusing MANIFEST /home/cheyenne/.config/Slack/Session Storage/MANIFEST-000001
+2021/10/19-14:25:28.947 c42 Recovering log #3
+2021/10/19-14:25:28.947 c42 Reusing old log /home/cheyenne/.config/Slack/Session Storage/000003.log 
+2021/10/20-15:02:50.918 5458 Level-0 table #5: started
+2021/10/20-15:02:50.931 5458 Level-0 table #5: 21183 bytes OK
+2021/10/20-15:02:50.934 5458 Delete type=0 #3

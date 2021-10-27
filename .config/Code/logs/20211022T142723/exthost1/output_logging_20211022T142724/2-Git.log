@@ -1,0 +1,58 @@
+Validating found git in: git
+Using git 2.30.2 from git
+> git rev-parse --git-dir
+Open repository: /home/cheyenne/Projects/list_search
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :embed.html
+> git ls-files --stage -- /home/cheyenne/Projects/list_search/embed.html
+> git cat-file -s 397f6e8d1e7e0782a5d6f9f37330d7d333cea0d0
+> git check-ignore -v -z --stdin
+> git rev-parse --git-dir
+Open repository: /home/cheyenne/Projects/ajax
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :fetch.js
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/fetch.js
+> git cat-file -s 793237b626f1fe68f451be8f6228a778b7ba20ed
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :embed.html
+> git ls-files --stage -- /home/cheyenne/Projects/list_search/embed.html
+> git cat-file -s 397f6e8d1e7e0782a5d6f9f37330d7d333cea0d0
+> git check-ignore -v -z --stdin
+> git show --textconv :index.html
+> git ls-files --stage -- /home/cheyenne/Projects/list_search/index.html
+> git cat-file -s 86f64db06fce02e1835401b5f18d188171ec2ac2
+> git show --textconv :script.js
+> git ls-files --stage -- /home/cheyenne/Projects/list_search/script.js
+> git cat-file -s 034037b173a3cea7b822fbf14f214abdf16a922d
+> git show --textconv :style.css
+> git ls-files --stage -- /home/cheyenne/Projects/list_search/style.css
+> git cat-file -s 42f3737a001f64ed076eaec5699fee6c49b66c39
+> git show --textconv :fetch.js
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/fetch.js
+> git cat-file -s 793237b626f1fe68f451be8f6228a778b7ba20ed
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/fetch.js
+> git cat-file -s 793237b626f1fe68f451be8f6228a778b7ba20ed
+> git show --textconv :fetch.js

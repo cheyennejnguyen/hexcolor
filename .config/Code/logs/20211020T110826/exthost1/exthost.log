@@ -1,0 +1,22 @@
+[2021-10-20 11:08:27.255] [exthost] [info] extension host started
+[2021-10-20 11:08:27.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-20 11:08:27.299] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-20 11:08:27.304] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-10-20 11:08:27.304] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-20 11:08:27.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-10-20 11:08:27.307] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-10-20 11:08:27.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-20 11:08:27.314] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-20 11:08:27.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-20 11:08:27.316] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/git/dist/main
+[2021-10-20 11:08:27.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-20 11:08:27.477] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-10-20 11:08:27.502] [exthost] [info] eager extensions activated
+[2021-10-20 11:08:27.507] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-20 11:08:27.507] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-20 11:08:27.570] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-20 11:08:27.570] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-20 11:08:27.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-20 11:08:27.611] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/76/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-20 11:08:31.363] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-20 11:08:32.370] [exthost] [info] exiting with code 0

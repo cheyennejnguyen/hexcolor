@@ -1,0 +1,95 @@
+Validating found git in: git
+Using git 2.30.2 from git
+> git rev-parse --git-dir
+Open repository: /home/cheyenne
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :Projects/ajax/styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/styles.css
+> git show --textconv :Projects/ajax/index.html
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/index.html
+> git show --textconv :Projects/ajax/fetch.js
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/fetch.js
+> git show --textconv :Projects/ajax/ajax.js
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/ajax.js
+> git show --textconv :Projects/ajax/index.html
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/index.html
+> git show --textconv :Projects/ajax/styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/styles.css
+> git show --textconv :Projects/ajax/index.html
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/index.html
+> git show --textconv :Projects/ajax/index.html
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/index.html
+> git show --textconv :Projects/ajax/users.json
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/users.json
+> git check-ignore -v -z --stdin
+> git show --textconv :Projects/ajax/index.html
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/index.html
+> git show --textconv :Projects/ajax/ajax.js
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/ajax.js
+> git show --textconv :Projects/ajax/users.json
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/users.json
+> git show --textconv :Projects/ajax/fetch.js
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/fetch.js
+> git show --textconv :Projects/ajax/styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/styles.css
+> git show --textconv :Projects/ajax/users.json
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/users.json
+> git show --textconv :Projects/ajax/fetch.js
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/fetch.js
+> git show --textconv :Projects/ajax/ajax.js
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/ajax.js
+> git show --textconv :Projects/ajax/fetch.js
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/fetch.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Projects/ajax/users.json
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/users.json
+> git show --textconv :Projects/ajax/index.html
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Projects/ajax/styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Projects/ajax/fetch.js
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/fetch.js
+> git show --textconv :Projects/ajax/users.json
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/users.json
+> git show --textconv :Projects/ajax/index.html
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/index.html
+> git show --textconv :Projects/ajax/styles.css
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/styles.css
+> git status -z -u
+> git ls-files --stage -- /home/cheyenne/Projects/ajax/styles.css
+> git cat-file -s 3ee20c88ba1aecd55a4a3dbb170eb6dc07f60238
+> git show --textconv :Projects/ajax/styles.css
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -367,3 +367,15 @@ ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/hirsute-updates/main/dist-u
 ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/hirsute-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
 UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/hirsute-updates/main/dist-upgrader-all/current/hirsute.tar.gz
 UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/hirsute-updates/main/dist-upgrader-all/current/hirsute.tar.gz.gpg
+
+Dist: impish
+Name: Impish Indri
+Version: 21.10
+Date: Thu, 14 October 2021 21:10:00 UTC
+Supported: 1
+Description: This is the 21.10 release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/impish/Release
+ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/impish/main/dist-upgrader-all/current/ReleaseAnnouncement
+ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/impish/main/dist-upgrader-all/current/ReleaseAnnouncement.html
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/impish/main/dist-upgrader-all/current/impish.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/impish/main/dist-upgrader-all/current/impish.tar.gz.gpg

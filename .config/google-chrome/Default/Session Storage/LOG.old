@@ -1,21 +1,3 @@
-2021/09/28-15:38:00.487 3 Reusing MANIFEST /home/cheyenne/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2021/09/28-15:38:00.488 3 Recovering log #9
-2021/09/28-15:38:00.488 3 Reusing old log /home/cheyenne/.config/google-chrome/Default/Session Storage/000009.log 
-2021/10/06-15:49:45.546 5e Level-0 table #13: started
-2021/10/06-15:49:45.550 5e Level-0 table #13: 27889 bytes OK
-2021/10/06-15:49:45.554 5e Delete type=0 #9
-2021/10/06-15:54:13.266 69 Level-0 table #15: started
-2021/10/06-15:54:13.269 69 Level-0 table #15: 14658 bytes OK
-2021/10/06-15:54:13.275 69 Delete type=0 #12
-2021/10/07-11:35:59.965 85 Level-0 table #17: started
-2021/10/07-11:35:59.978 85 Level-0 table #17: 22483 bytes OK
-2021/10/07-11:35:59.982 85 Delete type=0 #14
-2021/10/07-11:35:59.982 85 Compacting 4@0 + 1@1 files
-2021/10/07-11:35:59.988 85 Generated table #18@0: 491 keys, 25799 bytes
-2021/10/07-11:35:59.988 85 Compacted 4@0 + 1@1 files => 25799 bytes
-2021/10/07-11:35:59.991 85 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/10/07-11:35:59.992 85 Delete type=2 #15
-2021/10/07-11:35:59.992 85 Delete type=2 #17
-2021/10/07-11:35:59.992 85 Delete type=2 #13
-2021/10/07-11:35:59.992 85 Delete type=2 #10
-2021/10/07-11:35:59.992 85 Delete type=2 #8
+2021/10/19-14:28:47.552 5 Reusing MANIFEST /home/cheyenne/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2021/10/19-14:28:47.553 5 Recovering log #20
+2021/10/19-14:28:47.553 5 Reusing old log /home/cheyenne/.config/google-chrome/Default/Session Storage/000020.log 
